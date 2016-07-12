@@ -1,0 +1,72 @@
+42620	AK228980	2.68E+03	12	70.59	7	0.42	7	100	FOR_HCV-3a(+)25	"Arabidopsis thaliana mRNA for endoribonuclease/protein kinase IRE1, complete cds, clone: RAFL16-28-J05."	230	241
+42620	AK228980	2.04E+03	13	59.09	6	0.46	7	100	REV_HCV-3a(-)371	"Arabidopsis thaliana mRNA for endoribonuclease/protein kinase IRE1, complete cds, clone: RAFL16-28-J05."	403	415
+42620	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:230  REV_HCV-3a(-)371:403***********************************************									"Arabidopsis thaliana mRNA for endoribonuclease/protein kinase IRE1, complete cds, clone: RAFL16-28-J05."
+
+5796	CP005976	6.79E+02	13	76.47	7	0	7	100	FOR_HCV-3a(+)25	"Pseudomonas putida H8234, complete genome."	6010469	6010481
+5796	CP005976	6.79E+02	13	76.47	7	0	7	100	FOR_HCV-3a(+)25	"Pseudomonas putida H8234, complete genome."	5214191	5214203
+5796	CP005976	2.68E+03	12	70.59	7	0	7	100	FOR_HCV-3a(+)25	"Pseudomonas putida H8234, complete genome."	6381112	6381123
+52729	AC147179	2.68E+03	12	70.59	7	0.01	7	100	FOR_HCV-3a(+)25	"Medicago truncatula clone mth2-142n19, complete sequence."	12350	12361
+52729	AC147179	2.04E+03	13	59.09	6	0.01	7	100	REV_HCV-3a(-)371	"Medicago truncatula clone mth2-142n19, complete sequence."	12735	12747
+52729	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:12350  REV_HCV-3a(-)371:12735***********************************************									"Medicago truncatula clone mth2-142n19, complete sequence."
+
+13869	LK927819	2.68E+03	12	70.59	7	0.01	7	100	FOR_HCV-3a(+)25	"Caenorhabditis elegans genome assembly C_elegans_Bristol_N2_v1_5_4 ,scaffold CELN2_scaffold0000251."	33244	33255
+13869	LK927819	6.79E+02	13	61.9	6	0.01	7	100	REV_HCV-3a(-)345	"Caenorhabditis elegans genome assembly C_elegans_Bristol_N2_v1_5_4 ,scaffold CELN2_scaffold0000251."	36146	36158
+13869	LK927819	2.68E+03	12	57.14	7	0.01	7	100	REV_HCV-3a(-)345	"Caenorhabditis elegans genome assembly C_elegans_Bristol_N2_v1_5_4 ,scaffold CELN2_scaffold0000251."	95477	95488
+13869	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:33244  REV_HCV-3a(-)345:36146***********************************************									"Caenorhabditis elegans genome assembly C_elegans_Bristol_N2_v1_5_4 ,scaffold CELN2_scaffold0000251."
+13869	too far away: (62233) FOR_HCV-3a(+)25:33244  REV_HCV-3a(-)345:95477									"Caenorhabditis elegans genome assembly C_elegans_Bristol_N2_v1_5_4 ,scaffold CELN2_scaffold0000251."
+
+43433	AP004790	6.79E+02	13	76.47	7	0.01	7	100	FOR_HCV-3a(+)25	"Oryza sativa Japonica Group genomic DNA, chromosome 2, PAC clone:P0476H10."	105649	105661
+43433	AP004790	6.79E+02	13	61.9	6	0.01	7	100	REV_HCV-3a(-)345	"Oryza sativa Japonica Group genomic DNA, chromosome 2, PAC clone:P0476H10."	106444	106456
+43433	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:105649  REV_HCV-3a(-)345:106444***********************************************									"Oryza sativa Japonica Group genomic DNA, chromosome 2, PAC clone:P0476H10."
+
+42702	AB049937	2.68E+03	12	70.59	7	0.45	7	100	FOR_HCV-3a(+)25	"Arabidopsis thaliana mRNA for Ire1 homolog-2, complete cds."	56	67
+42702	AB049937	2.04E+03	13	59.09	6	0.49	7	100	REV_HCV-3a(-)371	"Arabidopsis thaliana mRNA for Ire1 homolog-2, complete cds."	229	241
+42702	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:56  REV_HCV-3a(-)371:229***********************************************									"Arabidopsis thaliana mRNA for Ire1 homolog-2, complete cds."
+
+33264	LL718583	6.79E+02	13	76.47	7	0.02	7	100	FOR_HCV-3a(+)25	"Hydatigera taeniaeformis genome assembly H_taeniaeformis_Canary_Islands ,scaffold TTAC_contig0000065."	25663	25675
+33264	LL718583	4.35E+01	15	71.43	6	0.02	7	100	REV_HCV-3a(-)345	"Hydatigera taeniaeformis genome assembly H_taeniaeformis_Canary_Islands ,scaffold TTAC_contig0000065."	25700	25714
+33264	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:25663  REV_HCV-3a(-)345:25700***********************************************									"Hydatigera taeniaeformis genome assembly H_taeniaeformis_Canary_Islands ,scaffold TTAC_contig0000065."
+
+7520	CP006871	2.68E+03	12	70.59	7	0	7	100	FOR_HCV-3a(+)25	"Streptomyces albulus ZPM, complete genome."	2111612	2111623
+7520	CP006871	6.79E+02	13	68.42	7	0	7	100	FOR_HCV-3a(+)7	"Streptomyces albulus ZPM, complete genome."	8638824	8638836
+7520	CP006871	6.79E+02	13	68.42	7	0	7	100	FOR_HCV-3a(+)7	"Streptomyces albulus ZPM, complete genome."	8637507	8637519
+15994	LK945831	2.68E+03	12	63.16	7	0.01	7	100	FOR_HCV-3a(+)7	"Angiostrongylus cantonensis genome assembly A_cantonensis_China ,scaffold ACAC_scaffold0000252."	103213	103224
+15994	LK945831	2.04E+03	13	59.09	7	0.01	7	100	REV_HCV-3a(-)371	"Angiostrongylus cantonensis genome assembly A_cantonensis_China ,scaffold ACAC_scaffold0000252."	37904	37916
+15994	LK945831	6.21E+03	11	57.89	6	0.01	7	100	REV_HCV-3a(-)394	"Angiostrongylus cantonensis genome assembly A_cantonensis_China ,scaffold ACAC_scaffold0000252."	106121	106131
+15994	too far away: (-65309) FOR_HCV-3a(+)7:103213  REV_HCV-3a(-)371:37904									"Angiostrongylus cantonensis genome assembly A_cantonensis_China ,scaffold ACAC_scaffold0000252."
+15994	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)7:103213  REV_HCV-3a(-)394:106121***********************************************									"Angiostrongylus cantonensis genome assembly A_cantonensis_China ,scaffold ACAC_scaffold0000252."
+
+4488	CP000108	2.68E+03	12	70.59	7	0	7	100	FOR_HCV-3a(+)25	"Chlorobium chlorochromatii CaD3, complete genome."	1420937	1420948
+4488	CP000108	2.68E+03	12	70.59	7	0	7	100	FOR_HCV-3a(+)25	"Chlorobium chlorochromatii CaD3, complete genome."	320334	320345
+4488	CP000108	2.68E+03	12	70.59	6	0	7	100	FOR_HCV-3a(+)25	"Chlorobium chlorochromatii CaD3, complete genome."	31504	31515
+34492	LM149518	2.68E+03	12	70.59	7	0.02	7	100	FOR_HCV-3a(+)25	"Schistosoma mattheei genome assembly S_mattheei_Denwood ,scaffold SMTD_scaffold0000200."	1211	1222
+34492	LM149518	2.04E+03	13	59.09	6	0.03	7	100	REV_HCV-3a(-)371	"Schistosoma mattheei genome assembly S_mattheei_Denwood ,scaffold SMTD_scaffold0000200."	3234	3246
+34492	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:1211  REV_HCV-3a(-)371:3234***********************************************									"Schistosoma mattheei genome assembly S_mattheei_Denwood ,scaffold SMTD_scaffold0000200."
+
+50086	AC007584	2.68E+03	12	70.59	7	0.01	7	100	FOR_HCV-3a(+)25	"Arabidopsis thaliana chromosome 2 clone MJB20 map mi398, complete sequence."	42410	42421
+50086	AC007584	2.04E+03	13	59.09	6	0.02	7	100	REV_HCV-3a(-)371	"Arabidopsis thaliana chromosome 2 clone MJB20 map mi398, complete sequence."	42794	42806
+50086	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:42410  REV_HCV-3a(-)371:42794***********************************************									"Arabidopsis thaliana chromosome 2 clone MJB20 map mi398, complete sequence."
+
+30317	LL915235	3.30E+01	16	72.73	6	0.18	7	100	REV_HCV-3a(-)371	"Schistocephalus solidus genome assembly S_solidus_NST_G2 ,scaffold SSLN_scaffold0013826."	8393	8408
+30317	LL915235	2.68E+03	12	70.59	7	0.13	7	100	FOR_HCV-3a(+)25	"Schistocephalus solidus genome assembly S_solidus_NST_G2 ,scaffold SSLN_scaffold0013826."	6866	6877
+30317	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:6866  REV_HCV-3a(-)371:8393***********************************************									"Schistocephalus solidus genome assembly S_solidus_NST_G2 ,scaffold SSLN_scaffold0013826."
+
+17644	LL235689	2.68E+03	12	70.59	7	0.02	7	100	FOR_HCV-3a(+)25	"Echinostoma caproni genome assembly E_caproni_Egypt ,scaffold ECPE_scaffold0002594."	13	24
+17644	LL235689	6.79E+02	13	61.9	6	0.02	7	100	REV_HCV-3a(-)345	"Echinostoma caproni genome assembly E_caproni_Egypt ,scaffold ECPE_scaffold0002594."	1215	1227
+17644	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:13  REV_HCV-3a(-)345:1215***********************************************									"Echinostoma caproni genome assembly E_caproni_Egypt ,scaffold ECPE_scaffold0002594."
+
+51676	AF308596	2.68E+03	12	70.59	7	0.43	7	100	FOR_HCV-3a(+)25	"Arabidopsis thaliana endoribonuclease/protein kinase IRE1-like protein (IRE1A) mRNA, complete cds."	178	189
+51676	AF308596	2.04E+03	13	59.09	6	0.46	7	100	REV_HCV-3a(-)371	"Arabidopsis thaliana endoribonuclease/protein kinase IRE1-like protein (IRE1A) mRNA, complete cds."	351	363
+51676	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:178  REV_HCV-3a(-)371:351***********************************************									"Arabidopsis thaliana endoribonuclease/protein kinase IRE1-like protein (IRE1A) mRNA, complete cds."
+
+5007	CP002789	6.79E+02	13	76.47	7	0	7	100	FOR_HCV-3a(+)25	"Xanthomonas campestris pv. raphani 756C, complete genome."	4924308	4924320
+5007	CP002789	6.79E+02	13	76.47	7	0	7	100	FOR_HCV-3a(+)25	"Xanthomonas campestris pv. raphani 756C, complete genome."	3315233	3315245
+5007	CP002789	6.79E+02	13	76.47	7	0	7	100	FOR_HCV-3a(+)25	"Xanthomonas campestris pv. raphani 756C, complete genome."	2829600	2829612
+12750	LK394855	6.79E+02	13	76.47	7	0.26	7	100	FOR_HCV-3a(+)25	"Dicrocoelium dendriticum genome assembly D_dendriticum_Leon_v1_0_4 ,scaffold DDEL_scaffold0001708."	3739	3751
+12750	LK394855	6.21E+03	11	57.89	6	0.22	7	100	REV_HCV-3a(-)394	"Dicrocoelium dendriticum genome assembly D_dendriticum_Leon_v1_0_4 ,scaffold DDEL_scaffold0001708."	4197	4207
+12750	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)25:3739  REV_HCV-3a(-)394:4197***********************************************									"Dicrocoelium dendriticum genome assembly D_dendriticum_Leon_v1_0_4 ,scaffold DDEL_scaffold0001708."
+
+25910	LM585712	2.68E+03	12	63.16	7	0.04	7	100	FOR_HCV-3a(+)7	"Haemonchus placei genome assembly H_placei_MHpl1 ,scaffold HPLM_scaffold0002638."	973	984
+25910	LM585712	2.68E+03	12	57.14	6	0.04	7	100	REV_HCV-3a(-)345	"Haemonchus placei genome assembly H_placei_MHpl1 ,scaffold HPLM_scaffold0002638."	2131	2142
+25910	RESULT MATCHED WITHOUT PROBE: FOR_HCV-3a(+)7:973  REV_HCV-3a(-)345:2131***********************************************									"Haemonchus placei genome assembly H_placei_MHpl1 ,scaffold HPLM_scaffold0002638."
+

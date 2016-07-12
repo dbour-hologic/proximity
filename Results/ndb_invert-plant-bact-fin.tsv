@@ -1,0 +1,15 @@
+Subject ID	Accession	Description	Oligo 1 (FOR)	Oligo 2(REV)	Oligo 1(E-val)	Oligo 1(Query Percent)	Oligo 1(Start Location)	Oligo 1(End Location	Oligo 2(E-val)	Oligo 2(Query Percent)	Oligo 2(Start Location	Oligo 2(End Location
+42702	AB049937	Arabidopsis thaliana mRNA for Ire1 homolog-2, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.68E+03	70.59	56	67	2.04E+03	59.09	229	241
+13869	LK927819	Caenorhabditis elegans genome assembly C_elegans_Bristol_N2_v1_5_4 ,scaffold CELN2_scaffold0000251.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.68E+03	70.59	33244	33255	6.79E+02	61.9	36146	36158
+33264	LL718583	Hydatigera taeniaeformis genome assembly H_taeniaeformis_Canary_Islands ,scaffold TTAC_contig0000065.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	6.79E+02	76.47	25663	25675	4.35E+01	71.43	25700	25714
+30317	LL915235	Schistocephalus solidus genome assembly S_solidus_NST_G2 ,scaffold SSLN_scaffold0013826.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.68E+03	70.59	6866	6877	3.30E+01	72.73	8393	8408
+42620	AK228980	Arabidopsis thaliana mRNA for endoribonuclease/protein kinase IRE1, complete cds, clone: RAFL16-28-J05.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.68E+03	70.59	230	241	2.04E+03	59.09	403	415
+12750	LK394855	Dicrocoelium dendriticum genome assembly D_dendriticum_Leon_v1_0_4 ,scaffold DDEL_scaffold0001708.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	6.79E+02	76.47	3739	3751	6.21E+03	57.89	4197	4207
+50086	AC007584	Arabidopsis thaliana chromosome 2 clone MJB20 map mi398, complete sequence.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.68E+03	70.59	42410	42421	2.04E+03	59.09	42794	42806
+25910	LM585712	Haemonchus placei genome assembly H_placei_MHpl1 ,scaffold HPLM_scaffold0002638.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.68E+03	63.16	973	984	2.68E+03	57.14	2131	2142
+34492	LM149518	Schistosoma mattheei genome assembly S_mattheei_Denwood ,scaffold SMTD_scaffold0000200.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.68E+03	70.59	1211	1222	2.04E+03	59.09	3234	3246
+15994	LK945831	Angiostrongylus cantonensis genome assembly A_cantonensis_China ,scaffold ACAC_scaffold0000252.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.68E+03	63.16	103213	103224	6.21E+03	57.89	106121	106131
+52729	AC147179	Medicago truncatula clone mth2-142n19, complete sequence.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.68E+03	70.59	12350	12361	2.04E+03	59.09	12735	12747
+51676	AF308596	Arabidopsis thaliana endoribonuclease/protein kinase IRE1-like protein (IRE1A) mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.68E+03	70.59	178	189	2.04E+03	59.09	351	363
+43433	AP004790	Oryza sativa Japonica Group genomic DNA, chromosome 2, PAC clone:P0476H10.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	6.79E+02	76.47	105649	105661	6.79E+02	61.9	106444	106456
+17644	LL235689	Echinostoma caproni genome assembly E_caproni_Egypt ,scaffold ECPE_scaffold0002594.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.68E+03	70.59	13	24	6.79E+02	61.9	1215	1227

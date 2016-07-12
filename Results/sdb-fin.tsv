@@ -1,0 +1,952 @@
+Subject ID	Accession	Description	Oligo 1 (FOR)	Oligo 2(REV)	Oligo 1(E-val)	Oligo 1(Query Percent)	Oligo 1(Start Location)	Oligo 1(End Location	Oligo 2(E-val)	Oligo 2(Query Percent)	Oligo 2(Start Location	Oligo 2(End Location
+220098	KJ439782	Hepatitis C virus isolate QC87, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33328	AF169004	Hepatitis C virus subtype 2a isolate G2aK3, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.09E+04	45.45	372	381
+33329	AF169005	Hepatitis C virus subtype 2a isolate NDM59, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+189055	KC967477	Hepatitis C virus isolate DH8/JFH1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+189054	KC967476	Hepatitis C virus isolate T9/JFH1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	4.46E+01	77.27	376	393
+189057	KC967479	Hepatitis C virus isolate S83/JFH1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+189056	KC967478	Hepatitis C virus isolate DH10/JFH1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	52.38	356	366
+33322	AF165062	Hepatitis C virus subtype 1b strain MD9-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+33323	AF165063	Hepatitis C virus subtype 1b strain MD10-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33320	AF165060	Hepatitis C virus subtype 1b strain MD8-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33321	AF165061	Hepatitis C virus subtype 1b strain MD9-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+220095	KJ439779	Hepatitis C virus isolate QC316, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	382	395
+33327	AF169003	Hepatitis C virus subtype 2a isolate G2aK1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+33324	AF165064	Hepatitis C virus subtype 1b strain MD10-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33325	AF176573	Hepatitis C virus subtype 1b strain 274933RU, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+62764	AY576567	Hepatitis C virus isolate patient 8 clone 3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+4020	HPCHCJ5	Hepatitis C virus gene for structural protein, partial cds, isolate: HC-J5.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	52.38	356	366
+4021	HPCHCJ7	Hepatitis C virus gene for structural protein, partial cds, isolate: HC-J7.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+282544	KJ678816	Hepatitis C virus isolate ZS653, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+7302	AJ621218	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	32	48	1.76E+02	59.09	377	389
+7303	AJ621219	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	32	48	5.61E+01	73.68	402	416
+7300	AJ621216	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	32	48	5.61E+01	73.68	402	416
+7301	AJ621217	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	32	48	5.61E+01	73.68	401	415
+7306	AJ621222	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	1.44E-01	89.47	19	35	5.61E+01	73.68	404	418
+7307	AJ621223	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	37	53	5.61E+01	73.68	404	418
+7304	AJ621220	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	32	48	5.61E+01	73.68	401	415
+7305	AJ621221	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	24	40	3.26E+00	84.21	393	409
+62760	AY576554	Hepatitis C virus isolate patient 5 clone 3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+7308	AJ621224	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	1.39E+02	63.16	19	30	5.61E+01	73.68	403	417
+7309	AJ621225	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	3.52E+01	94.12	37	53	5.61E+01	73.68	406	420
+48301	AF313916	Hepatitis C virus polyprotein mRNA, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+62761	AY576555	Hepatitis C virus isolate patient 5 clone 4 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+282491	KJ678763	Hepatitis C virus isolate GZ0313, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	373	387
+282490	KJ678762	Hepatitis C virus isolate GZ0311, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	373	387
+62780	AY576583	Hepatitis C virus isolate patient 7 clone 6 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62781	AY576584	Hepatitis C virus isolate patient 7 clone 7 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+90053	AY308072	Hepatitis C virus polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+239257	EF108306	Hepatitis C virus QC69 subtype 7a, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	28	41	9.02E+00	71.43	351	365
+62784	AY576587	Hepatitis C virus isolate patient 1 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62785	AY576588	Hepatitis C virus isolate patient 3 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	2.20E+03	66.67	331	345
+227336	KM043275	Hepatitis C virus strain 10025TF.UC2 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+62789	AY576592	Hepatitis C virus isolate patient 3 clone 5 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+73083	EF032894	Hepatitis C virus subtype 1b isolate BR1427_P7_3.1.04 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	6	14	9.02E+00	71.43	324	338
+73082	EF032893	Hepatitis C virus subtype 1b isolate BR1427_P3_11.10.03 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	9	17	9.02E+00	71.43	327	341
+73081	EF032892	Hepatitis C virus subtype 1b isolate BR1427_P1_10.7.03 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	3	19	9.02E+00	71.43	329	343
+78121	EU360321	Hepatitis C virus isolate HCV5UTR-MG07 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+208101	KF676352	Hepatitis C virus subtype 2a isolate PR63cc, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+208100	KF676351	Hepatitis C virus subtype 2a isolate PR63, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+220092	KJ439776	Hepatitis C virus isolate QC152, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	382	395
+118764	HQ719473	Hepatitis C virus subtype 1b isolate Barcelona HCV1, partial genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+39910	AF207757	Hepatitis C virus subtype 1b strain MD16, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33326	AF169002	Hepatitis C virus subtype 2a isolate NDM228, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+241596	KP666623	Hepatitis C virus clone 110069_5R_c2 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+241591	KP666618	Hepatitis C virus clone 10025_5R_1_3 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241590	KP666617	Hepatitis C virus clone 10025_5R_1_2 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241593	KP666620	Hepatitis C virus clone 10025_5R_2_2_E1 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241592	KP666619	Hepatitis C virus clone 10025_5R_1_1 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+5960	AB154203	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 28.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+3337	HPCJCG	Hepatitis C virus ORF gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+220097	KJ439781	Hepatitis C virus isolate QC74, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	382	395
+220096	KJ439780	Hepatitis C virus isolate QC60, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+33692	DQ835761	Hepatitis C virus subtype 6j isolate C-0667, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+19304	X65924	Hepatitis C Virus genomic RNA for capsid and envelope protein.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	5	13	9.02E+00	71.43	323	337
+5851	AB249644	Hepatitis C virus subtype 1b genomic RNA, complete genome, hiroshima acute hepatitis.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+96010	AY460204	Hepatitis C virus from Shanghai, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+194990	KC197230	Hepatitis C virus isolate PTR9415 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.17E+03	76.47	2	15	2.75E+03	50	347	357
+5911	AB426117	Hepatitis C virus subtype 1b genomic RNA, complete genome, hiroshima acute hepatitis, clone: HCV-KT1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+5912	AB435162	Hepatitis C virus subtype 1b genomic RNA, complete genome, hiroshima acute hepatitis, clone: HCV-KT9.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+282492	KJ678764	Hepatitis C virus isolate GZ0366, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	373	387
+26472	AB520610	Hepatitis C virus subtype 1a genomic RNA, complete genome, strain: HCV-RMT.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+144446	JF735118	Hepatitis C virus isolate QC302, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+80610	FJ207602	Hepatitis C virus isolate 86_293-M017 envelope glycoprotein E1 (E1) gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	67	75	1.09E+04	45.45	82	91
+192003	KC248194	Hepatitis C virus isolate 148636, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	26	42	1.13E+01	68.18	372	386
+122224	HQ639942	Hepatitis C virus subtype 3a isolate WYHCV255 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	8	24	1.89E-01	94.74	377	395
+53245	AF009606	Hepatitis C virus subtype 1a polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+122223	HQ639941	Hepatitis C virus subtype 3a isolate WYHCV254 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	8	24	5.61E+01	89.47	377	395
+2099	HPCJK049E1	Hepatitis C virus (isolate JK049) genomic RNA, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	6.96E+02	54.55	371	382
+253922	KM587623	Hepatitis C virus isolate J polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.25E+00	94.74	7	25	1.76E+02	59.09	372	384
+253921	KM587622	Hepatitis C virus isolate I polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	3.52E+01	68.42	1	13	7.22E-01	77.27	364	380
+253920	KM587621	Hepatitis C virus isolate H polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+253927	KM587628	Hepatitis C virus isolate O polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+253926	KM587627	Hepatitis C virus isolate N polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+253925	KM587626	Hepatitis C virus isolate M polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	351	365
+253929	KM587630	Hepatitis C virus isolate Q polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+253928	KM587629	Hepatitis C virus isolate P polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	370	382
+96374	AY746460	Hepatitis C virus genotype 2a polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+34501	AB622121	Hepatitis C virus gene for polyprotein, complete cds, isolate: HC10-0804.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	45.45	376	385
+4195	HPCHCJ1	Hepatitis C virus genomic RNA, complete genome, isolate: HC-J1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+220089	KJ439773	Hepatitis C virus isolate QC329, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	45.45	2819	2828
+282519	KJ678791	Hepatitis C virus isolate TV487, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+39928	AF208024	Hepatitis C virus subtype 1b strain MD34, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	70.59	15	27	9.02E+00	71.43	341	355
+39926	AF207773	Hepatitis C virus subtype 1b strain MD32, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39927	AF207774	Hepatitis C virus subtype 1b strain MD33, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+39924	AF207771	Hepatitis C virus subtype 1b strain MD30, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39925	AF207772	Hepatitis C virus subtype 1b strain MD31, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39922	AF207769	Hepatitis C virus subtype 1b strain MD28, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39923	AF207770	Hepatitis C virus subtype 1b strain MD29, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39920	AF207767	Hepatitis C virus subtype 1b strain MD26, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39921	AF207768	Hepatitis C virus subtype 1b strain MD27, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+2046	HPCK1R3	Hepatitis C virus (strain HCV-1b, clone HCV-K1-R3), complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+206209	KC844046	Hepatitis C virus subtype 5a isolate ZS631 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	371	385
+2044	HPCK1R1	Hepatitis C virus (strain HCV-1b, clone HCV-K1-R1), complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+2045	HPCK1R2	Hepatitis C virus (strain HCV-1b, clone HCV-K1-R2), complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+44908	EU408326	Hepatitis C virus isolate 537798 polyprotein precursor, gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+44909	EU408327	Hepatitis C virus isolate 535318 polyprotein precursor, gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+2040	HPCJK148B5	Hepatitis C virus isolate JK148 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	52.94	32	40	4.46E+01	77.27	374	391
+206202	KC844039	Hepatitis C virus genotype 6 isolate ZS96 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+206203	KC844040	Hepatitis C virus genotype 6 isolate ZS202 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+206204	KC844041	Hepatitis C virus subtype 3a isolate ZS633 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	3.52E+01	89.47	7	25	1.89E-01	94.74	394	412
+206205	KC844042	Hepatitis C virus subtype 2f isolate ZS542 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	52.38	356	366
+2048	HPCK1S3	Hepatitis C virus (strain HCV-1b, clone HCV-K1-S3), complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+2049	HPCK1S2	Hepatitis C virus (strain HCV-1b, clone HCV-K1-S2), complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+66559	DQ155468	Hepatitis C virus strain D42 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+66558	DQ155467	Hepatitis C virus strain D41 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	4.46E+01	90.91	345	366
+66557	DQ155466	Hepatitis C virus strain D37 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66556	DQ155465	Hepatitis C virus strain D36 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	348	362
+66554	DQ155463	Hepatitis C virus strain D33 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	4.02E+03	68.42	373	386
+66553	DQ155462	Hepatitis C virus strain D32 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66552	DQ155461	Hepatitis C virus strain D31 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	348	362
+66551	DQ155460	Hepatitis C virus strain D29 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+225904	KJ567650	Hepatitis C virus isolate 6_TV548, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.09E+04	45.45	375	384
+44798	EU541300	Hepatitis C virus isolate HCVUTR-MG29 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+225906	KJ567652	Hepatitis C virus isolate 6_TV566, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	4.46E+01	90.91	370	391
+5949	AB154192	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 17.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+225900	KJ567646	Hepatitis C virus isolate 6_TV469, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	16	25	9.02E+00	71.43	350	364
+225901	KJ567647	Hepatitis C virus isolate 6_VN214, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	351	365
+225902	KJ567648	Hepatitis C virus isolate 6_TV453, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	4.46E+01	90.91	371	392
+225903	KJ567649	Hepatitis C virus isolate 6_TV443, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.09E+04	45.45	375	384
+44791	EU541293	Hepatitis C virus isolate HCVUTR-MG22 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	27	43	9.02E+00	71.43	353	367
+44790	EU541292	Hepatitis C virus isolate HCVUTR-MG21 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+282509	KJ678781	Hepatitis C virus isolate SW11, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	374	388
+44792	EU541294	Hepatitis C virus isolate HCVUTR-MG23 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44795	EU541297	Hepatitis C virus isolate HCVUTR-MG26 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+253918	KM587619	Hepatitis C virus isolate F polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	16	25	9.02E+00	71.43	351	365
+44797	EU541299	Hepatitis C virus isolate HCVUTR-MG28 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44796	EU541298	Hepatitis C virus isolate HCVUTR-MG27 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+241567	KP666594	Hepatitis C virus clone 9055_09_5R_FH7 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+1908	D88473	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+1909	D88474	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+1906	D88471	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	4.02E+03	68.42	398	411
+1907	D88472	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	4.02E+03	68.42	398	411
+1904	D88469	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+1905	D88470	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	4.02E+03	68.42	398	411
+1902	D88467	Hepatitis C virus genomic RNA for core, env,and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	2.75E+03	77.27	373	391
+1903	D88468	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	370	382
+1900	D88465	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+1901	D88466	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+50127	AY576564	Hepatitis C virus isolate patient 4 clone 9 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+50126	AY576563	Hepatitis C virus isolate patient 4 clone 8 nonfunctional core protein gene, partial sequence.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	8	21	9.02E+00	71.43	331	345
+280924	KM504109	Hepatitis C virus isolate 745291, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	8.69E+03	61.9	352	365
+50124	AY576561	Hepatitis C virus isolate patient 4 clone 6 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+50123	AY576560	Hepatitis C virus isolate patient 4 clone 5 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+50122	AY576559	Hepatitis C virus isolate patient 4 clone 4 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	8	21	9.02E+00	71.43	331	345
+50121	AY576558	Hepatitis C virus isolate patient 4 clone 3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	8	21	9.02E+00	71.43	331	345
+50120	AY576557	Hepatitis C virus isolate patient 4 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+66542	DQ155451	Hepatitis C virus strain D12 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	376	389
+282493	KJ678765	Hepatitis C virus isolate GZ0545, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	373	387
+168839	JX183549	Hepatitis C virus isolate KM35, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+70666	DQ640338	Hepatitis C virus strain Th22 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	5.78E-01	95.24	319	339
+70667	DQ640339	Hepatitis C virus strain Th23 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.83E-01	95.45	345	366
+70664	DQ640336	Hepatitis C virus strain Th6 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+70665	DQ640337	Hepatitis C virus strain Th19 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.83E-01	81.82	345	362
+62786	AY576589	Hepatitis C virus isolate patient 3 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	332	346
+70668	DQ640340	Hepatitis C virus strain Th25 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	373	386
+70669	DQ640341	Hepatitis C virus strain Th26 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	373	386
+62787	AY576590	Hepatitis C virus isolate patient 3 clone 3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+33353	AY232745	Hepatitis C virus clone MD2b8-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33352	AY232744	Hepatitis C virus clone MD2b8-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33351	AY232743	Hepatitis C virus clone MD2b7-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	5052	5060	4.02E+03	57.89	7835	7846
+33350	AY232742	Hepatitis C virus clone MD2b7-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	5052	5060	4.02E+03	57.89	7835	7846
+251899	JQ717258	Hepatitis C virus subtype 3a isolate ILBSRAS7, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	27	43	1.89E-01	94.74	396	414
+33356	AY232748	Hepatitis C virus clone MD2b10-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	64.71	6201	6211	4.02E+03	57.89	7835	7846
+33355	AY232747	Hepatitis C virus clone MD2b9-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33354	AY232746	Hepatitis C virus clone MD2b9-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+251895	JQ717254	Hepatitis C virus subtype 3a isolate RASILBS3, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+251894	JN714194	Hepatitis C virus subtype 3a isolate RASILBS2-SR-PO polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	29	45	1.89E-01	94.74	398	416
+33359	HPCCGAA	Hepatitis C virus subtype 1a, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+33358	HPCPLYPRE	Hepatitis C virus subtype 1a, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+251893	HQ738645	Hepatitis C virus isolate RASILBS1 subtype 3a polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+253917	KM587618	Hepatitis C virus isolate E polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+35676	EF632071	Hepatitis C virus isolate VT21, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	8250	8258	2.75E+03	50	8863	8873
+35674	EF632069	Hepatitis C virus isolate TV241, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	72.73	375	391
+35675	EF632070	Hepatitis C virus isolate TV249, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	5.61E+01	73.68	397	411
+62768	AY576571	Hepatitis C virus isolate patient 8 clone 7 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62769	AY576572	Hepatitis C virus isolate patient 8 clone 8 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+172426	KC123844	Hepatitis C virus isolate V2522 NS3-4 protease gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	320	328	1.09E+04	45.45	688	697
+62765	AY576568	Hepatitis C virus isolate patient 8 clone 4 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	332	346
+62766	AY576569	Hepatitis C virus isolate patient 8 clone 5 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62767	AY576570	Hepatitis C virus isolate patient 8 clone 6 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+282473	KJ678745	Hepatitis C virus isolate BL37, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+282472	KJ678744	Hepatitis C virus isolate BL120, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+62762	AY576565	Hepatitis C virus isolate patient 8 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62763	AY576566	Hepatitis C virus isolate patient 8 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+5951	AB154194	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 19.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5950	AB154193	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 18.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5953	AB154196	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 21.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5952	AB154195	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 20.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5955	AB154198	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 23.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5954	AB154197	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 22.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5957	AB154200	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 25.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5956	AB154199	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 24.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5959	AB154202	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 27.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5958	AB154201	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 26.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+223920	KM102769	Hepatitis C virus isolate Patient K polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	13	22	1.76E+02	59.09	369	381
+223921	KM102770	Hepatitis C virus isolate Patient L polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	13	22	1.76E+02	59.09	369	381
+36154	AB677532	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCV-M2777.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+33695	DQ835764	Hepatitis C virus subtype 6f isolate C-0046, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+36150	AB677528	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCV-M4430.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+172637	KC125173	Hepatitis C virus isolate V0166 NS3-4A protease gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.58E+03	47.37	320	328	2.20E+03	52.38	1631	1641
+16034	AM910652	Hepatitis C virus subtype 1g complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	493	501	1.09E+04	45.45	2532	2541
+33693	DQ835762	Hepatitis C virus subtype 6i isolate C-0159, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	370	382
+44332	AB828701	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: Pt1-98_Q2.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+241566	KP666593	Hepatitis C virus clone 9055_09_5R_FC11 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+44330	AB828699	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: Pt1-98_R.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+194999	KC197239	Hepatitis C virus isolate PTR9203 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	2	15	9.02E+00	71.43	325	339
+253913	KM587614	Hepatitis C virus isolate A polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+33691	DQ835760	Hepatitis C virus subtype 6f isolate C-0044, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+241568	KP666595	Hepatitis C virus clone 9055_09_5R_FA7 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+241569	KP666596	Hepatitis C virus clone 9055_09_5R_GC4 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+253914	KM587615	Hepatitis C virus isolate B polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+253915	KM587616	Hepatitis C virus isolate C polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+33696	DQ835765	Hepatitis C virus subtype 6m isolate C-0185, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+33697	DQ835766	Hepatitis C virus subtype 6m isolate C-0192, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+33694	DQ835763	Hepatitis C virus subtype 6m isolate C-0208, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	3.26E+00	84.21	393	409
+6892	AB049092	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT145.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+6895	AB049095	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT169.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+6894	AB049094	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT161.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+6897	AB049097	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT197.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+6896	AB049096	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT191.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+6899	AB049099	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT212.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+6898	AB049098	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT209.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+38960	AB792683	Hepatitis C virus subtype 3a genomic RNA, complete genome, strain: HCV-TYMM.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+33698	DQ835767	Hepatitis C virus subtype 6m isolate B4/92, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+33699	DQ835768	Hepatitis C virus subtype 6n isolate D86/93, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+70671	DQ640343	Hepatitis C virus strain Th28 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	5.78E-01	95.24	319	339
+20310	FN435993	Hepatitis C virus subtype 1b complete genome, isolate EU1, genomic RNA.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	354	368
+204031	KF700370	Hepatitis C virus clone JFH1-AM120, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	9.68E+02	63.16	401	413
+70672	DQ640344	Hepatitis C virus strain Th31 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	3.70E-02	95.24	319	339
+241594	KP666621	Hepatitis C virus clone 10025_5R_2_1_D1 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+1279	AB191333	Hepatitis C virus genomic RNA, complete genome, strain:0.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+122711	AB047639	Hepatitis C virus (isolate JFH-1) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	9.68E+02	63.16	401	413
+2042	D50409	Hepatitis C virus (isolate BEBE1) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.09E+04	45.45	923	932
+135248	HCU05034	Hepatitis C virus isolate QC9 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.39E+02	70.59	1	12	1.89E-01	94.74	365	383
+135247	HCU05033	Hepatitis C virus isolate QC8 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.39E+02	70.59	1	12	1.89E-01	94.74	365	383
+135246	HCU05032	Hepatitis C virus isolate QC7 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.39E+02	70.59	1	12	1.89E-01	94.74	365	383
+135242	HCU05028	Hepatitis C virus isolate QC3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+135241	HCU05026	Hepatitis C virus isolate QC14 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	52.94	3	11	1.13E+01	68.18	341	355
+1951	HPCCGS	Hepatitis C virus (isolate HC-G9) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+40647	FJ411253	Hepatitis C virus isolate 24 clone 1-2 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	2	18	9.02E+00	71.43	329	343
+1885	D84265	Hepatitis C virus (isolate VN004) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+40648	FJ411254	Hepatitis C virus isolate 25 clone 1-2 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	2	18	9.02E+00	71.43	328	342
+1883	D84263	Hepatitis C virus (isolate VN235) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	978	986	1.09E+04	45.45	2539	2548
+1882	D84262	Hepatitis C virus (isolate Th580) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+8244	AJ238799	Hepatitis C virus type 1b complete genome, isolate Con1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+8722	AJ851228	Hepatitis C virus gene for polyprotein, genomic RNA, isolate Equatorial Guinea.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	326	340
+70686	DQ640358	Hepatitis C virus strain Th48 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.76E+02	59.09	345	357
+5945	AB154188	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 13.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+222875	KJ470614	Hepatitis C virus isolate QC09, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	1.89E-01	94.74	394	412
+222874	KJ470613	Hepatitis C virus isolate QC08, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	1.89E-01	94.74	394	412
+222877	KJ470616	Hepatitis C virus isolate QC34, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	1.76E+02	59.09	371	383
+222876	KJ470615	Hepatitis C virus isolate QC10, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	1.89E-01	94.74	394	412
+222873	KJ470612	Hepatitis C virus isolate QC07, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	1.89E-01	94.74	394	412
+66590	DQ155499	Hepatitis C virus strain D88 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	4.46E+01	90.91	345	366
+259425	JF735134	Hepatitis C virus isolate QC253, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	29	42	9.02E+00	71.43	352	366
+222879	KJ470618	Hepatitis C virus isolate NE145, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	9.68E+02	63.16	400	412
+77279	EU246931	Hepatitis C virus strain D42 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+34558	AB661398	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.85.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34559	AB661399	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.86.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+23611	AB559564	Hepatitis C virus HCV gene for hepatitis C virus polyprotein, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+34550	AB661390	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.49.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34551	AB661391	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.53.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34552	AB661392	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.54.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34553	AB661393	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.55.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+40649	FJ411255	Hepatitis C virus isolate 27 clone 1-3 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	2	18	9.02E+00	71.43	329	343
+2037	HPCJK109B2	Hepatitis C virus isolate JK109 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+1988	HPCCORE13	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+160817	JX178372	Hepatitis C virus clone 10012.10.TB5 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	592	600	4.02E+03	52.63	1448	1457
+9836	AJ132996	Hepatitis C virus, complete genome, isolate HCV-AD78.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+9837	AJ132997	Hepatitis C virus, complete genome, isolate HCV-AD78P1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+236193	KM252783	Hepatitis C virus isolate TV412 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	1	10	2.33E+02	68.42	384	397
+236192	KM252782	Hepatitis C virus isolate TV407 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	399	412
+236191	KM252781	Hepatitis C virus isolate TV503 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+236190	KM252780	Hepatitis C virus isolate TV395 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.67E+04	47.37	1876	1884
+236197	KM252787	Hepatitis C virus isolate TV396 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	16	25	1.41E+02	90.48	344	364
+236196	KM252786	Hepatitis C virus isolate TV406 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	4.46E+01	90.91	370	391
+236195	KM252785	Hepatitis C virus isolate TV462 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	16	25	1.41E+02	90.48	345	365
+236194	KM252784	Hepatitis C virus isolate VN085 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	15	24	2.33E+02	68.42	397	410
+236210	KM252800	Hepatitis C virus isolate L390 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	372	384
+2033	HPCJK065A7	Hepatitis C virus isolate JK065 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	4.46E+01	90.91	370	391
+36774	AB690461	Hepatitis C virus subtype 2a genomic RNA, complete genome, strain: J6CF/JFH2.1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	52.38	356	366
+236198	KM252788	Hepatitis C virus isolate TV546 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	394	412
+144438	JF735110	Hepatitis C virus isolate QC114, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	1.41E+02	66.67	352	366
+36773	AB690460	Hepatitis C virus subtype 2a genomic RNA, complete genome, strain: JFH2.1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+2032	HPCJK055A6	Hepatitis C virus isolate JK055 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	1.13E+01	68.18	371	385
+2031	HPCJK049A5	Hepatitis C virus isolate JK049 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	6.96E+02	54.55	371	382
+48107	AY051292	Hepatitis C virus (isolate India) polyprotein mRNA, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+194987	KC197227	Hepatitis C virus isolate PTR1256 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	2	15	8.69E+03	47.62	1818	1827
+105603	EF424629	Hepatitis C virus subtype 6c isolate Th846, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	979	987	1.67E+04	47.37	3568	3576
+282538	KJ678810	Hepatitis C virus isolate VN865, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.09E+04	45.45	871	880
+1956	HPCE2NS160	Hepatitis C virus (isolate VN998) gene for polyprotein precursor (core, env and part of E2/NS1), partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+70688	DQ640360	Hepatitis C virus strain Th52 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+70689	DQ640361	Hepatitis C virus strain Th40 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	5.78E-01	95.24	319	339
+189269	JX227974	Hepatitis C virus subtype 2m isolate HCV-2m/CA/BID-G1727, partial genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	1068	1076	1.67E+04	47.37	3417	3425
+70684	DQ640356	Hepatitis C virus strain Th46 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+70685	DQ640357	Hepatitis C virus strain Th47 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+282530	KJ678802	Hepatitis C virus isolate TV569, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	375	387
+70687	DQ640359	Hepatitis C virus strain Th49 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	1.89E-01	94.74	368	386
+70680	DQ640352	Hepatitis C virus strain Th42 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.76E+02	59.09	345	357
+70681	DQ640353	Hepatitis C virus strain Th43 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.76E+02	59.09	345	357
+225898	KJ567644	Hepatitis C virus isolate 6_VN139, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	1	10	4.02E+03	68.42	383	396
+236202	KM252792	Hepatitis C virus isolate km98 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	4.02E+03	63.16	398	411
+4138	HPCJTB	Hepatitis C virus genomic RNA, complete genome, strain: JT'.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+77288	EU246940	Hepatitis C virus strain D83 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	1.89E-01	94.74	368	386
+223913	KM102762	Hepatitis C virus isolate Patient C polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+7319	AJ621235	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	3.52E+01	94.12	37	53	5.61E+01	73.68	406	420
+7318	AJ621234	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	37	53	5.61E+01	73.68	395	409
+194993	KC197233	Hepatitis C virus isolate PTR2795 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	2	15	2.20E+03	52.38	329	339
+77281	EU246933	Hepatitis C virus strain D33 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	2.20E+03	66.67	319	333
+7314	AJ621230	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	37	53	5.61E+01	73.68	406	420
+7317	AJ621233	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	37	53	5.61E+01	73.68	404	418
+77282	EU246934	Hepatitis C virus strain D85 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	952	961	1.67E+04	47.37	3545	3553
+77285	EU246937	Hepatitis C virus strain TH22 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	5.78E-01	95.24	319	339
+206215	KC844052	Hepatitis C virus subtype 1b isolate GZ51969 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+7313	AJ621229	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	45	61	5.61E+01	73.68	413	427
+77286	EU246938	Hepatitis C virus strain TH31 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	5.78E-01	95.24	319	339
+206214	KC844051	Hepatitis C virus subtype 1b isolate GZ52540 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+206213	KC844050	Hepatitis C virus subtype 2f isolate 98799 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+280930	KM504115	Hepatitis C virus isolate QC176, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	371	385
+70683	DQ640355	Hepatitis C virus strain Th45 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+288630	KU871278	Hepatitis C virus isolate HITP300315_2b polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6105	6113	4.02E+03	57.89	7737	7748
+220091	KJ439775	Hepatitis C virus isolate QC113, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+194994	KC197234	Hepatitis C virus isolate PTR3874 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.17E+03	76.47	2	15	1.76E+02	59.09	345	357
+75537	EF407483	Hepatitis C virus isolate 4043 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	88.24	2	18	9.02E+00	71.43	328	342
+194995	KC197235	Hepatitis C virus isolate MRS89 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	2.17E+03	58.82	5946	5955	1.67E+04	47.37	7786	7794
+44331	AB828700	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: Pt1-98_Q1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+192002	KC248193	Hepatitis C virus isolate 136142, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	18	27	4.02E+03	52.63	2807	2816
+5942	AB154185	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 10.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+62757	AY576551	Hepatitis C virus isolate patient 2 clone 5 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62756	AY576550	Hepatitis C virus isolate patient 2 clone 4 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+192006	KC248197	Hepatitis C virus isolate EBW424, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	382	395
+192007	KC248198	Hepatitis C virus isolate EBW443, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+62753	AY576547	Hepatitis C virus isolate patient 2 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+192005	KC248196	Hepatitis C virus isolate 166212, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	382	395
+192008	KC248199	Hepatitis C virus isolate EBW9, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	18	27	4.02E+03	52.63	2791	2800
+173527	JQ065709	Hepatitis C virus isolate SH37 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.71E-01	94.12	1	16	5.61E+01	89.47	369	387
+62759	AY576553	Hepatitis C virus isolate patient 5 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62758	AY576552	Hepatitis C virus isolate patient 5 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+251901	JQ717260	Hepatitis C virus subtype 3a isolate ILBSRAS9, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+251900	JQ717259	Hepatitis C virus subtype 3a isolate ILBSRAS8, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	3.52E+01	94.12	27	43	1.89E-01	94.74	396	414
+223977	KJ925149	Hepatitis C virus strain SA4, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	371	385
+223976	KJ925148	Hepatitis C virus strain SA3, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	371	385
+223975	KJ925147	Hepatitis C virus strain SA2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	371	385
+223974	KJ925146	Hepatitis C virus strain SA1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	371	385
+39911	AF207758	Hepatitis C virus subtype 1b strain MD17, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+230128	KM349851	Hepatitis C virus strain SB, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+280939	KM504124	Hepatitis C virus isolate QC334, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	16	25	1.41E+02	90.48	345	365
+33317	AF165057	Hepatitis C virus subtype 1b strain MD7-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+33316	AF165056	Hepatitis C virus subtype 1b strain MD6-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	2.20E+03	52.38	345	355
+33315	AF165055	Hepatitis C virus subtype 1b strain MD6-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33314	AF165054	Hepatitis C virus subtype 1b strain MD5-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33313	AF165053	Hepatitis C virus subtype 1b strain MD5-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33312	AF165052	Hepatitis C virus subtype 1b strain MD4-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33311	AF165051	Hepatitis C virus subtype 1b strain MD4-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+220083	KJ439767	Hepatitis C virus isolate QC165, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+93135	GU814263	Hepatitis C virus S52 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+5961	AB154204	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 29.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5962	AB154205	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 30.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5966	AB154206	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 31.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33318	AF165058	Hepatitis C virus subtype 1b strain MD7-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+3665	D37842	Hepatitis C virus gene for polyprotein, partial cds, isolate: ThKL24.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+3664	D37838	Hepatitis C virus gene for polyprotein, partial cds, isolate: ThK164.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	1.09E+04	45.45	371	380
+3667	D37851	Hepatitis C virus gene for polyprotein, partial cds, isolate: ThKF68.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+3666	D37847	Hepatitis C virus gene for polyprotein, partial cds, isolate: ThK248.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+282485	KJ678757	Hepatitis C virus isolate GZ0020, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+1987	HPCCORE12	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+75283	EF420134	Hepatitis C virus strain D54 deletion mutant polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	1.67E+04	47.37	1526	1534
+75282	EF420133	Hepatitis C virus strain D33 deletion mutant polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	4.02E+03	68.42	374	387
+75281	EF420132	Hepatitis C virus strain D33 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	2.20E+03	66.67	319	333
+75280	EF420131	Hepatitis C virus strain D88 deletion mutant polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	45.45	842	851
+54148	EU408329	Hepatitis C virus isolate QC66 polyprotein precursor, gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	4.46E+01	90.91	370	391
+223912	KM102761	Hepatitis C virus isolate Patient B polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	19	28	2.75E+03	50	376	386
+66584	DQ155493	Hepatitis C virus strain D82 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	4.46E+01	63.64	345	358
+33337	AF290978	Hepatitis C virus subtype 1a isolate colonel, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+223915	KM102764	Hepatitis C virus isolate Patient E polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+220085	KJ439769	Hepatitis C virus isolate QC172, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.13E+01	68.18	373	387
+206212	KC844049	Hepatitis C virus subtype 1a isolate ZS30 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+5943	AB154186	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 11.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+160144	JX014307	Hepatitis C virus clone JFH1-ad16, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	9.68E+02	63.16	401	413
+5940	AB154183	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 8.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+5941	AB154184	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 9.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+78118	EU360318	Hepatitis C virus isolate HCV5UTR-MG04 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+78119	EU360319	Hepatitis C virus isolate HCV5UTR-MG05 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+78115	EU360315	Hepatitis C virus isolate HCV5UTR-MG01 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+78116	EU360316	Hepatitis C virus isolate HCV5UTR-MG02 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+78117	EU360317	Hepatitis C virus isolate HCV5UTR-MG03 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+56618	GQ870488	Hepatitis C virus subtype 1a isolate 1/910 clone 2A3-33 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	641	649	4.02E+03	52.63	892	901
+4318	HPCJ491	Hepatitis C virus genome, complete sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+46377	FJ477239	Hepatitis C virus isolate LPE core/ARF protein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+66539	DQ155448	Hepatitis C virus strain D7 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+66538	DQ155447	Hepatitis C virus strain D5 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+625	AB030907	Hepatitis C virus (isolate JPUT971017) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+36149	AB677527	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCV-B5808.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+44227	AB779562	Hepatitis C virus subtype 1b RNA, complete genome, isolate: LyHCVserumSR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+66536	DQ155445	Hepatitis C virus strain D2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	348	362
+46378	FJ477240	Hepatitis C virus isolate MFX core/ARF protein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	354	368
+194992	KC197232	Hepatitis C virus isolate FrBd0565 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	52.94	6209	6217	2.75E+03	50	8505	8515
+280935	KM504120	Hepatitis C virus isolate QC266, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	370	382
+280936	KM504121	Hepatitis C virus isolate QC269, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	2.75E+03	63.64	371	385
+194991	KC197231	Hepatitis C virus isolate MRS178 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.17E+03	76.47	2	15	1.76E+02	59.09	345	357
+194996	KC197236	Hepatitis C virus isolate MRS41 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.17E+03	76.47	2	15	1.76E+02	59.09	345	357
+194997	KC197237	Hepatitis C virus isolate MRS117 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	2.17E+03	76.47	2	15	9.02E+00	71.43	325	339
+280932	KM504117	Hepatitis C virus isolate QC197, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	4.46E+01	63.64	370	383
+206210	KC844047	Hepatitis C virus subtype 1c isolate ZS17 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	2.20E+03	66.67	336	350
+39913	AF207760	Hepatitis C virus subtype 1b strain MD19, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39912	AF207759	Hepatitis C virus subtype 1b strain MD18, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	5.57E+02	57.14	341	352
+194998	KC197238	Hepatitis C virus isolate MRS40 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.17E+03	76.47	2	15	1.09E+04	45.45	345	354
+223527	EU255941	Hepatitis C virus subtype 1a isolate HCV-1a/US/BID-V697/2006, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	913	921	1.67E+04	47.37	1497	1505
+39917	AF207764	Hepatitis C virus subtype 1b strain MD23, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39916	AF207763	Hepatitis C virus subtype 1b strain MD22, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39915	AF207762	Hepatitis C virus subtype 1b strain MD21, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	2.20E+03	66.67	341	355
+39914	AF207761	Hepatitis C virus subtype 1b strain MD20, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+1884	D84264	Hepatitis C virus (isolate VN405) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	370	382
+2054	D89815	Hepatitis C virus genomic RNA, complete sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+33705	DQ278894	Hepatitis C virus subtype 6n isolate KM42, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	20	29	8.69E+03	47.62	3000	3009
+66548	DQ155457	Hepatitis C virus strain D23 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	376	389
+34589	AB661429	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.56.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34588	AB661428	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.65.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+66540	DQ155449	Hepatitis C virus strain D8 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66541	DQ155450	Hepatitis C virus strain D9 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	376	389
+34585	AB661425	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.106.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+66543	DQ155452	Hepatitis C virus strain D16 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	376	389
+66544	DQ155453	Hepatitis C virus strain D17 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	348	362
+66545	DQ155454	Hepatitis C virus strain D19 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+35111	AB558135	Hepatitis C virus isolate M2123 genomic RNA, nearly complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+44788	EU541290	Hepatitis C virus isolate HCVUTR-MG19 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44789	EU541291	Hepatitis C virus isolate HCVUTR-MG20 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+282486	KJ678758	Hepatitis C virus isolate GZ0046, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+44782	EU541284	Hepatitis C virus isolate HCVUTR-MG13 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44783	EU541285	Hepatitis C virus isolate HCVUTR-MG14 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44780	EU541282	Hepatitis C virus isolate HCVUTR-MG11 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+651	AB016785	Hepatitis C virus genomic RNA, complete sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	354	368
+44786	EU541288	Hepatitis C virus isolate HCVUTR-MG17 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+62800	AY576603	Hepatitis C virus isolate patient 6 clone 8 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	2.20E+03	66.67	331	345
+217158	KJ530074	Hepatitis C virus isolate 127: Day 1 NS3-4A protein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.58E+03	47.37	320	328	2.20E+03	52.38	1631	1641
+44785	EU541287	Hepatitis C virus isolate HCVUTR-MG16 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+34587	AB661427	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.108.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34561	AB661401	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.112.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34563	AB661403	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.115.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34562	AB661402	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.113.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	1.67E+04	52.63	7532	7542
+1911	D88476	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	1.41E+02	90.48	348	368
+1910	D88475	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	4.46E+01	63.64	374	387
+1913	D88478	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+1912	D88477	Hepatitis C virus genomic RNA for core, env and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+43224	FJ435090	Hepatitis C virus isolate KM181 genotype 6v, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+34568	AB661408	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.126.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7528	7539
+34584	AB661424	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.104.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5896	5904	4.02E+03	57.89	7528	7539
+44801	EU541303	Hepatitis C virus isolate HCVUTR-MG32 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44800	EU541302	Hepatitis C virus isolate HCVUTR-MG31 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44802	EU541304	Hepatitis C virus isolate HCVUTR-MG33 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+34583	AB661423	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.103.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34582	AB661422	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.102.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+62797	AY576600	Hepatitis C virus isolate patient 6 clone 5 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	3.56E+01	66.67	332	345
+2027	HPCJK020A1	Hepatitis C virus isolate JK020 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	20	29	9.02E+00	71.43	355	369
+66546	DQ155455	Hepatitis C virus strain D20 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+113666	GQ275355	Hepatitis C virus subtype 3a, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	1.45E-01	100	25	41	4.63E-02	86.36	371	389
+2028	HPCJK025A2	Hepatitis C virus isolate JK025 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+2029	HPCJK030A3	Hepatitis C virus isolate JK030 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	1.13E+01	68.18	371	385
+33348	AY232740	Hepatitis C virus clone MD2b6-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33349	AY232741	Hepatitis C virus clone MD2b6-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33344	AY232736	Hepatitis C virus clone MD2b4-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33345	AY232737	Hepatitis C virus clone MD2b4-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33346	AY232738	Hepatitis C virus clone MD2b5-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33347	AY232739	Hepatitis C virus clone MD2b5-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33340	AY232732	Hepatitis C virus clone MD2b2-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33341	AY232733	Hepatitis C virus clone MD2b2-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33342	AY232734	Hepatitis C virus clone MD2b3-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33343	AY232735	Hepatitis C virus clone MD2b3-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+280933	KM504118	Hepatitis C virus isolate QC251, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+8415	AJ278830	Hepatitis C virus genomic RNA for polyprotein gene.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+9752	AJ000009	Hepatitis C virus complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	9.02E+00	71.43	336	350
+282520	KJ678792	Hepatitis C virus isolate TV491, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	374	388
+22523	DQ278892	Hepatitis C virus isolate GZ52557, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	394	412
+282482	KJ678754	Hepatitis C virus isolate gb28, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+223836	EU781826	Hepatitis C virus subtype 1b isolate L8135, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	13	21	9.02E+00	71.43	331	345
+223837	EU781827	Hepatitis C virus subtype 1b isolate L801, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	9	17	9.02E+00	71.43	327	341
+62790	AY576593	Hepatitis C virus isolate patient 3 clone 6 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+4000	HPCJTA	Hepatitis C virus (HCV) complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+4002	HPCJ8G	Hepatitis C virus genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+220093	KJ439777	Hepatitis C virus isolate QC180, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+3973	HPC5TRJ1	Hepatitis C virus gene for structural protein, partial cds, isolate:HC-J1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+3974	HPC5TRJ4	Hepatitis C virus gene for structural protein, partial cds, isolate:HC-J4.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+62795	AY576598	Hepatitis C virus isolate patient 6 clone 3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+240701	KP667853	Hepatitis C virus clone 10012_10_TB5 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	592	600	4.02E+03	52.63	1448	1457
+62794	AY576597	Hepatitis C virus isolate patient 6 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+241573	KP666600	Hepatitis C virus clone 9055_09_5R_FF8 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+241572	KP666599	Hepatitis C virus clone 9055_09_5R_FD11 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	395	413
+241571	KP666598	Hepatitis C virus clone 9055_09_5R_GF6 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+241570	KP666597	Hepatitis C virus clone 9055_09_5R_GC7 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+241577	KP666604	Hepatitis C virus clone 10051_5R_1 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241576	KP666603	Hepatitis C virus clone 10051_5R_2 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241575	KP666602	Hepatitis C virus clone 10051_5R_4 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241574	KP666601	Hepatitis C virus clone 10051_5R_10 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+67612	DQ314806	Hepatitis C virus subtype 6g isolate HK6554, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+67611	DQ314805	Hepatitis C virus subtype 6e isolate GX004, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.67E+04	47.37	1876	1884
+241578	KP666605	Hepatitis C virus clone 10051_5R_8 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	380	393
+44787	EU541289	Hepatitis C virus isolate HCVUTR-MG18 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	27	43	9.02E+00	71.43	353	367
+168847	JX183557	Hepatitis C virus isolate DH027, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	32	40	2.33E+02	68.42	398	411
+44784	EU541286	Hepatitis C virus isolate HCVUTR-MG15 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+168846	JX183556	Hepatitis C virus isolate TV494, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	4.02E+03	68.42	398	411
+141245	HQ110091	Hepatitis C virus subtype 1b isolate LB, partial genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+282488	KJ678760	Hepatitis C virus isolate GZ0223, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+262681	KT234067	Hepatitis C virus isolate B3019 nonstructural protein NS3-4A gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	355	363	1.09E+04	45.45	688	697
+168844	JX183554	Hepatitis C virus isolate L349, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	9.68E+02	73.68	397	411
+135019	HPCE2COR	Hepatitis C virus core protein, envelope protein (E2) RNA, 5' end.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	5	14	9.02E+00	71.43	340	354
+250530	KP411670	Hepatitis C virus isolate 137045 NS3 protease gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.58E+03	47.37	320	328	2.20E+03	52.38	1631	1641
+95274	HPCUNKCDS	Hepatitis C virus mRNA, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+5937	AB154180	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 5.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+5936	AB154179	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 4.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+5935	AB154178	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 3.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5934	AB154177	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 2.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+51141	DQ155561	Hepatitis C virus (isolate D54) polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	5428	5436	1.67E+04	52.63	7842	7852
+5939	AB154182	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 7.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+5938	AB154181	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 6.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+191279	KF035127	Hepatitis C virus subtype 3a isolate ILBSRAS_UG polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	3.52E+01	94.12	25	41	1.89E-01	94.74	394	412
+135237	HCU05022	Hepatitis C virus isolate QC10 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.39E+02	70.59	1	12	1.89E-01	94.74	365	383
+2092	HPCPP	Hepatitis C virus complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	18	27	1.89E-01	94.74	396	414
+40650	FJ411256	Hepatitis C virus isolate 27 clone 1-6 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	2	18	9.02E+00	71.43	329	343
+222945	JX463527	Hepatitis C virus subtype 1a isolate V2504 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	640	648	1.67E+04	47.37	1224	1232
+280938	KM504123	Hepatitis C virus isolate QC292, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	16	25	1.41E+02	90.48	344	364
+1541	AB119282	Hepatitis C virus gene for Fusion protein, Feo, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+34569	AB661409	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.138.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+130503	JN588558	Hepatitis C virus genotype 3 strain NCVI/PK1, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	1.45E-01	100	25	41	4.63E-02	86.36	371	389
+101567	LC011928	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: TPF1, collection_date: 2007-04-27.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+101566	LC011927	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: TPF1, collection_date: 2003-04-23.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+11461	AM408911	Hepatitis C virus partial gene for polyprotein, recombinant 2/5, genomic RNA.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	4	20	9.02E+00	71.43	330	344
+78120	EU360320	Hepatitis C virus isolate HCV5UTR-MG06 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+78123	EU360323	Hepatitis C virus isolate HCV5UTR-MG09 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+78122	EU360322	Hepatitis C virus isolate HCV5UTR-MG08 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+225899	KJ567645	Hepatitis C virus isolate 6_VN110, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+101569	LC011931	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: sAH, collection_date: 2007-04-27.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+101568	LC011930	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: sAH, collection_date: 2004-12-02.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+89554	AY045702	Hepatitis C virus isolate HCR6, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	20	29	2.20E+03	66.67	355	369
+288628	KU871276	Hepatitis C virus isolate HITP300306 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	6105	6113	8.69E+03	47.62	6543	6552
+288629	KU871277	Hepatitis C virus isolate HITP400059 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6108	6116	4.02E+03	57.89	7740	7751
+191275	KF035123	Hepatitis C virus subtype 3a isolate ILBSRAS_BLS polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+191276	KF035124	Hepatitis C virus subtype 3a isolate ILBSRAS_JK polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+191277	KF035125	Hepatitis C virus subtype 3a isolate ILBSRAS_BD polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+236207	KM252797	Hepatitis C virus isolate L344 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	1	10	1.13E+01	68.18	356	370
+236206	KM252796	Hepatitis C virus isolate L310 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	3.26E+00	89.47	393	409
+236205	KM252795	Hepatitis C virus isolate L250 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+236204	KM252794	Hepatitis C virus isolate L176 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.67E+04	47.37	1873	1881
+236203	KM252793	Hepatitis C virus isolate L132 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	2.75E+03	77.27	373	391
+6568	AB442221	Hepatitis C virus subtype 1b genomic RNA, complete genome, clone: KAH4.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	18	27	1.67E+04	47.37	2494	2502
+236201	KM252791	Hepatitis C virus isolate L394 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	32	40	2.33E+02	68.42	401	414
+236200	KM252790	Hepatitis C virus isolate L347 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+236209	KM252799	Hepatitis C virus isolate L373 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+236208	KM252798	Hepatitis C virus isolate L350 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	4.63E-02	86.36	370	388
+66571	DQ155480	Hepatitis C virus strain D61 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66570	DQ155479	Hepatitis C virus strain D60 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	70.59	1	13	1.13E+01	68.18	345	359
+66573	DQ155482	Hepatitis C virus strain D63 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+66572	DQ155481	Hepatitis C virus strain D62 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66575	DQ155484	Hepatitis C virus strain D67 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+66574	DQ155483	Hepatitis C virus strain D65 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+66577	DQ155486	Hepatitis C virus strain D72 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66576	DQ155485	Hepatitis C virus strain D71 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66579	DQ155488	Hepatitis C virus strain D76 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66578	DQ155487	Hepatitis C virus strain D75 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	376	389
+262832	KT232907	Hepatitis C virus isolate B2474 nonstructural protein NS3-4A gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	355	364	1.09E+04	45.45	688	697
+254616	KP721475	Hepatitis C virus isolate CG-TJ-HCV02 nonfunctional polyprotein gene, complete sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+282528	KJ678800	Hepatitis C virus isolate TV563, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+1922	HPCEGS	Hepatitis C virus (isolate NZL1) genomic RNA, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+43212	EU798760	Hepatitis C virus subtype 6v isolate KMN-02 polyprotein precursor, gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	16	25	8.69E+03	47.62	2999	3008
+88309	AF054254	Hepatitis C virus HC-J4, pCV-J4L4 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	3620	3629	1.67E+04	68.42	6615	6629
+88307	AF054252	Hepatitis C virus HC-J4, pCV-J4L2 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	3619	3628	1.67E+04	68.42	6614	6628
+89397	AF333324	Hepatitis C virus type 1b polyprotein mRNA, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+282523	KJ678795	Hepatitis C virus isolate TV529, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	374	388
+282522	KJ678794	Hepatitis C virus isolate TV525, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+282527	KJ678799	Hepatitis C virus isolate TV559, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	5.78E-01	95.24	348	368
+223749	EU569723	Hepatitis C virus subtype 1a isolate HCV-1a/US/BID-V13/2005, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	900	908	1.67E+04	47.37	1484	1492
+253919	KM587620	Hepatitis C virus isolate G polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	372	386
+283832	KJ437295	Hepatitis C virus isolate HITS_300168 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	9.02E+00	71.43	336	350
+1981	HPCCORE04	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+18401	X61591	Hepatitis C virus partial gene for polyprotein, core, E1, NS1/E2 and NS2 proteins, genomic RNA, isolate patient 1: JK1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	2.20E+03	52.38	340	350
+18402	X61592	Hepatitis C virus (JK3) core, E1, NS1/E2 and NS2 genes.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	1	10	2.75E+03	50	364	374
+18403	X61593	Hepatitis C virus (JK2) core, E1, NS1/E2 and NS2 genes.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	9.02E+00	71.43	336	350
+18404	X61594	Hepatitis C virus (JK4) core, E1, NS1/E2 and NS2 genes.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	9.02E+00	71.43	336	350
+18405	X61595	Hepatitis C virus (JK5) core, E1, NS1/E2 and NS2 genes.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.58E+03	47.37	2	10	9.02E+00	71.43	336	350
+18406	X61596	Hepatitis C virus core, E1, NS1/E2, NS2, NS3, NS4a, NS4b and NS5 genes.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	9.02E+00	71.43	336	350
+206206	KC844043	Hepatitis C virus subtype 2a isolate ZS623 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.09E+04	45.45	372	381
+206211	KC844048	Hepatitis C virus subtype 2b isolate ZS260 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.09E+04	45.45	371	380
+383	AB047640	Hepatitis C virus gene for polyprotein, complete cds, clone:JCH-1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	52.38	356	366
+384	AB047641	Hepatitis C virus gene for polyprotein, complete cds, clone:JCH-2.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+385	AB047642	Hepatitis C virus gene for polyprotein, complete cds, clone:JCH-3.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+386	AB047643	Hepatitis C virus gene for polyprotein, complete cds, clone:JCH-4.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+387	AB047644	Hepatitis C virus gene for polyprotein, complete cds, clone:JCH-5.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+388	AB047645	Hepatitis C virus gene for polyprotein, complete cds, clone:JCH-6.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+34547	AB661387	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.24.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+77284	EU246936	Hepatitis C virus strain TH52 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+6774	AB429050	Hepatitis C virus gene for polyprotein, complete cds, isolate: AH1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+44781	EU541283	Hepatitis C virus isolate HCVUTR-MG12 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33300	AF054247	Hepatitis C virus subtype 1b strain HC-J4 isolate pCV-J4L6S, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33301	AF054248	Hepatitis C virus subtype 1b strain HC-J4 isolate pCV-J4L2S, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33302	AF054249	Hepatitis C virus subtype 1b strain HC-J4 isolate pCV-J4L4S, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	354	368
+33303	AF054250	Hepatitis C virus subtype 1b strain HC-J4, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	8	17	9.02E+00	71.43	343	357
+33304	AF139594	Hepatitis C virus subtype 1b strain HCV-N, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33305	AF165045	Hepatitis C virus subtype 1b strain MD1-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33306	AF165046	Hepatitis C virus subtype 1b strain MD1-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33307	AF165047	Hepatitis C virus subtype 1b strain MD2-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33308	AF165048	Hepatitis C virus subtype 1b strain MD2-2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+33309	AF165049	Hepatitis C virus subtype 1b strain MD3-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+1984	HPCCORE08	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+241595	KP666622	Hepatitis C virus clone 110069_5R_c1 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+223017	JX463599	Hepatitis C virus subtype 1a isolate V3195 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	640	648	1.67E+04	47.37	1224	1232
+182535	FJ872247	Hepatitis C virus isolate TLS1-2a polymerase NS5B gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	52.94	249	257	1.09E+04	45.45	869	878
+36155	AB677533	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCV-M8774.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+1985	HPCCORE09	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+223917	KM102766	Hepatitis C virus isolate Patient G polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+88126	AF011753	Hepatitis C virus strain H77 pH21 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+88124	AF011751	Hepatitis C virus strain H77 pCV-H77C polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+88125	AF011752	Hepatitis C virus strain H77 pCV-H11 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+222878	KJ470617	Hepatitis C virus isolate QC88, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	3.52E+01	68.42	13	25	1.76E+02	59.09	371	383
+223911	KM102760	Hepatitis C virus isolate Patient A polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+39905	AF207752	Hepatitis C virus subtype 1b strain MD11, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+39906	AF207753	Hepatitis C virus subtype 1b strain MD12, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	15	31	9.02E+00	71.43	341	355
+39907	AF207754	Hepatitis C virus subtype 1b strain MD13, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+4277	AY344023	Hepatitis C virus isolate UT-S18 5' UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	9.02E+00	71.43	332	346
+4276	AY344022	Hepatitis C virus isolate UT-S12 5' UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	9.02E+00	71.43	336	350
+4275	AY344021	Hepatitis C virus isolate UT-S11 5' UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	2.20E+03	66.67	337	351
+2047	HPCK1S1	Hepatitis C virus (strain HCV-1b, clone HCV-K1-S1), complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+7299	AJ621215	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	32	48	5.61E+01	73.68	401	415
+39908	AF207755	Hepatitis C virus subtype 1b strain MD14, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+39909	AF207756	Hepatitis C virus subtype 1b strain MD15, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+4441	AY885238	Hepatitis C virus strain Glasgow polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	382	395
+36310	AB709325	Hepatitis C virus subtype 1b gene for polyprotein, NS3 protease region, partial cds, isolate: KH101119.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	358	366	1.09E+04	45.45	688	697
+92564	AF271632	Hepatitis C virus subtype 1a clone pHCV-1/SF9 A, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+280925	KM504110	Hepatitis C virus isolate C-0782, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+194986	KC197226	Hepatitis C virus isolate MRS129 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6212	6220	9.68E+02	63.16	7843	7855
+194989	KC197229	Hepatitis C virus isolate MRS37 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.17E+03	76.47	2	15	1.76E+02	59.09	345	357
+194988	KC197228	Hepatitis C virus isolate FrBd3618 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6008	6016	1.67E+04	52.63	7845	7855
+280929	KM504114	Hepatitis C virus isolate QC150, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+280928	KM504113	Hepatitis C virus isolate QC120, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	1.41E+02	90.48	345	365
+236199	KM252789	Hepatitis C virus isolate L23 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+2043	D50466	Hepatitis C virus genomic RNA for core, env and E2/NS1, complete and partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	371	385
+70682	DQ640354	Hepatitis C virus strain Th44 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+144439	JF735111	Hepatitis C virus isolate QC178, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	52.38	356	366
+34590	AB661430	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.121.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5893	5901	4.02E+03	57.89	7525	7536
+34591	AB661431	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.50.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+2100	HPCJK046E2	Hepatitis C virus (isolate JK046) genomic RNA, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	32	40	1.89E-01	94.74	393	411
+5946	AB154189	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 14.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+227339	KM043278	Hepatitis C virus strain 110069TF1.UC1 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+26617	DQ993170	Hepatitis C virus genotype 4 5' UTR and nonfunctional polyprotein gene, partial sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	2.28E+00	76.19	345	360
+90345	GU294484	Hepatitis C virus isolate PK-1, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	1.45E-01	100	25	41	4.46E+01	90.91	371	392
+227338	KM043277	Hepatitis C virus strain 10025TF.UC4 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+45645	FJ407092	Hepatitis C virus isolate IND-HCV-3i, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	1.45E-01	100	25	41	1.76E+02	59.09	372	384
+126442	JF701912	Hepatitis C virus isolate P34 core protein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	8	17	1.09E+04	59.09	371	384
+34576	AB661416	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.20.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+66592	DQ155501	Hepatitis C virus strain D94 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+66591	DQ155500	Hepatitis C virus strain D89 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+34575	AB661415	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.15.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34572	AB661412	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.142.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5911	5919	4.02E+03	57.89	7543	7554
+34573	AB661413	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.143.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34570	AB661410	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.139.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34571	AB661411	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.140.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+206207	KC844044	Hepatitis C virus subtype 3b isolate ZS650 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.25E+00	94.74	7	25	1.76E+02	59.09	371	383
+34578	AB661418	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.64.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34579	AB661419	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.71.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+75276	EF420127	Hepatitis C virus strain P21 deletion mutant polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	326	340
+222764	JF735126	Hepatitis C virus isolate 811, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	9.68E+02	89.47	394	412
+75275	EF420126	Hepatitis C virus strain P21 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	3.56E+01	66.67	327	340
+88312	AF054258	Hepatitis C virus HC-J4, pCV-J4L9 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	3619	3628	1.67E+04	68.42	6614	6628
+34586	AB661426	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.107.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+75278	EF420129	Hepatitis C virus strain R30 deletion mutant polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	1.89E-01	94.74	368	386
+75279	EF420130	Hepatitis C virus strain D88 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	4.46E+01	90.91	345	366
+180038	KC191671	Hepatitis C virus isolate 10MYKJ032 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	12	20	1.67E+04	47.37	1856	1864
+2036	HPCJK081B1	Hepatitis C virus isolate JK081 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+2035	HPCJK072A9	Hepatitis C virus isolate JK072 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	1.13E+01	68.18	371	385
+2034	HPVJK070A8	Hepatitis C virus isolate JK070 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	1.13E+01	68.18	371	385
+105600	EF424626	Hepatitis C virus subtype 6p isolate QC216, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	59.09	371	383
+105601	EF424627	Hepatitis C virus subtype 6o isolate QC227, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	3.26E+00	89.47	393	411
+105602	EF424628	Hepatitis C virus subtype 6l isolate 537796, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	4.02E+03	68.42	398	411
+2030	HPCJK046A4	Hepatitis C virus isolate JK046 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	32	40	1.89E-01	94.74	393	411
+253916	KM587617	Hepatitis C virus isolate D polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+2039	HPCJK139B4	Hepatitis C virus isolate JK139 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+2038	HPCJK128B3	Hepatitis C virus isolate JK128 gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+33339	AY232731	Hepatitis C virus clone MD2b1-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+33338	AY232730	Hepatitis C virus clone MD2b1-1 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+220088	KJ439772	Hepatitis C virus isolate QC181, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+103955	GU133617	Hepatitis C virus subtype 1b, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33330	AF177036	Hepatitis C virus subtype 2a strain HC-J6CH clone pJ6CF, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+220086	KJ439770	Hepatitis C virus isolate QC78, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.13E+01	68.18	373	387
+220087	KJ439771	Hepatitis C virus isolate QC156, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	18	27	4.02E+03	52.63	2791	2800
+220084	KJ439768	Hepatitis C virus isolate QC103, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33336	AF238486	Hepatitis C virus subtype 2b strain MD2b-1, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6203	6211	4.02E+03	57.89	7835	7846
+223550	EU255965	Hepatitis C virus subtype 1a isolate HCV-1a/US/BID-V168/1990, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	905	913	1.67E+04	47.37	1489	1497
+223914	KM102763	Hepatitis C virus isolate Patient D polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	374	386
+62777	AY576580	Hepatitis C virus isolate patient 7 clone 3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	333	347
+81551	FJ469213	Hepatitis C virus subtype 6a isolate 3j RNA-dependent RNA polymerase gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	252	260	2.75E+03	50	470	480
+52016	EF026073	Hepatitis C virus strain RF3 2/5 polyprotein mRNA, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	4	20	9.02E+00	71.43	330	344
+7321	AJ621237	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	3.65E-02	94.74	8	25	1.41E+02	76.19	350	366
+4019	HPCHCJ2	Hepatitis C virus gene for structural protein, partial cds, isolate: HC-J2.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	1	10	1.09E+04	59.09	364	377
+1979	HPCCORE02	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	88.24	25	41	1.76E+02	59.09	371	383
+62782	AY576585	Hepatitis C virus isolate patient 7 clone 8 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+223835	EU781825	Hepatitis C virus subtype 1b isolate L825P, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	13	21	9.02E+00	71.43	331	345
+62791	AY576594	Hepatitis C virus isolate patient 3 clone 7 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+73084	EF032895	Hepatitis C virus subtype 1b isolate BR1427_P16_11.18.04 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	3	19	9.02E+00	71.43	329	343
+62793	AY576596	Hepatitis C virus isolate patient 6 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62792	AY576595	Hepatitis C virus isolate patient 3 clone 8 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+3988	HPCPOLP	Hepatitis C virus genomic RNA for polyprotein, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+282487	KJ678759	Hepatitis C virus isolate GZ0144, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	373	387
+282484	KJ678756	Hepatitis C virus isolate GZ0012, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+62796	AY576599	Hepatitis C virus isolate patient 6 clone 4 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62799	AY576602	Hepatitis C virus isolate patient 6 clone 7 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+44228	AB779679	Hepatitis C virus subtype 1b RNA, nearly complete genome, isolate: LyHCVpmbcSR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	3	19	1.09E+04	59.09	357	370
+168845	JX183555	Hepatitis C virus isolate TV317, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.67E+04	47.37	1507	1515
+282489	KJ678761	Hepatitis C virus isolate GZ0307, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+168843	JX183553	Hepatitis C virus isolate TV533, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+168842	JX183552	Hepatitis C virus isolate TV476, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+168841	JX183551	Hepatitis C virus isolate TV257, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	4.02E+03	68.42	398	411
+168840	JX183550	Hepatitis C virus isolate QC273, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+191278	KF035126	Hepatitis C virus subtype 3a isolate ILBSRAS_LD polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+44799	EU541301	Hepatitis C virus isolate HCVUTR-MG30 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33299	AF046866	Hepatitis C virus subtype 3a strain CB polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+62783	AY576586	Hepatitis C virus isolate patient 1 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+241588	KP666615	Hepatitis C virus clone 10021_5UTR_2 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241589	KP666616	Hepatitis C virus clone 10021_5UTR_11 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241586	KP666613	Hepatitis C virus clone 10021_5UTR_8 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241587	KP666614	Hepatitis C virus clone 10021_5UTR_7 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241584	KP666611	Hepatitis C virus clone 10021_5UTR_12 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241585	KP666612	Hepatitis C virus clone 10021_5UTR_9 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	2	11	1.09E+04	59.09	365	378
+241582	KP666609	Hepatitis C virus clone 10051_5R_16 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241583	KP666610	Hepatitis C virus clone 10051_5R_13 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241580	KP666607	Hepatitis C virus clone 10051_5R_3 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+241581	KP666608	Hepatitis C virus clone 10051_5R_9 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+282532	KJ678804	Hepatitis C virus isolate TV574, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+75556	EF407502	Hepatitis C virus isolate 2038 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	47	56	9.02E+00	71.43	382	396
+33319	AF165059	Hepatitis C virus subtype 1b strain MD8-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+23321	DQ155560	Hepatitis C virus strain D3 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	1	9	1.13E+01	68.18	355	369
+168848	JX183558	Hepatitis C virus isolate QC271, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	32	40	2.33E+02	68.42	398	411
+189262	JX227967	Hepatitis C virus subtype 2m isolate HCV-2m/CA/BID-G1314, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6162	6170	9.68E+02	63.16	7798	7810
+280934	KM504119	Hepatitis C virus isolate QC255, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+282537	KJ678809	Hepatitis C virus isolate VN541, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+189260	JX227965	Hepatitis C virus subtype 2c isolate HCV-2c/GB/BID-G1293, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6161	6169	1.67E+04	52.63	7795	7805
+282535	KJ678807	Hepatitis C virus isolate TV585, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+44793	EU541295	Hepatitis C virus isolate HCVUTR-MG24 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+135180	HPCSTRUCTB	Hepatitis C virus core and envelope proteins gene, 5' end of cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	4	20	9.02E+00	71.43	330	344
+135181	HPCSTRUCTC	Hepatitis C virus core and envelope proteins gene, 5' end of cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	2.26E+00	88.24	1	15	1.89E-01	94.74	368	386
+38888	AB691953	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: NC1.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+227333	KM043272	Hepatitis C virus strain 10021TF.UC1 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+133078	HQ850288	Hepatitis C virus isolate V3195 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	880	888	1.67E+04	47.37	1464	1472
+227335	KM043274	Hepatitis C virus strain 10025TF.UC1 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+227334	KM043273	Hepatitis C virus strain 10021TF.UC2 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+227337	KM043276	Hepatitis C virus strain 10025TF.UC3 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+44794	EU541296	Hepatitis C virus isolate HCVUTR-MG25 5' UTR and polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+179978	JF735125	Hepatitis C virus isolate QC268, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	5.61E+01	89.47	395	413
+62788	AY576591	Hepatitis C virus isolate patient 3 clone 4 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+7320	AJ621236	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.91E+00	73.68	7	20	2.37E-03	100	345	365
+179975	JF735122	Hepatitis C virus isolate QC105, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	88.24	25	41	1.13E+01	68.18	371	385
+179974	JF735121	Hepatitis C virus isolate QC29, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	3.52E+01	94.12	25	41	9.68E+02	89.47	394	412
+179977	JF735124	Hepatitis C virus isolate QC115, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	94.74	7	25	5.61E+01	89.47	394	412
+179976	JF735123	Hepatitis C virus isolate QC260, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	1.76E+02	59.09	371	383
+6399	D85516	Hepatitis C virus genomic RNA, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+6396	HPCJRNA	Hepatitis C virus strain J33 genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+7315	AJ621231	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	37	53	1.76E+02	59.09	383	395
+77280	EU246932	Hepatitis C virus strain D88 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	4.46E+01	90.91	345	366
+1414	AB080299	Hepatitis C virus genomic RNA, complete genome, isolate:M1LE.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+144445	JF735117	Hepatitis C virus isolate QC297, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+144444	JF735116	Hepatitis C virus isolate QC289, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+144447	JF735119	Hepatitis C virus isolate QC331, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	353	367
+7316	AJ621232	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.58E+03	47.37	20	28	2.37E-03	100	353	373
+144441	JF735113	Hepatitis C virus isolate QC232, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	4.46E+01	90.91	372	393
+144440	JF735112	Hepatitis C virus isolate QC182, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	372	386
+288639	KU871287	Hepatitis C virus isolate NED4-16 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	3677	3686	2.75E+03	50	5857	5867
+144442	JF735114	Hepatitis C virus isolate QC259, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+7311	AJ621227	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.25E+00	78.95	19	33	5.61E+01	73.68	404	418
+144448	JF735120	Hepatitis C virus isolate QC64, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	5657	5665	1.67E+04	52.63	8088	8098
+7310	AJ621226	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	37	53	5.61E+01	73.68	406	420
+6890	AB049090	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT140.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+34538	AB661378	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.8.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+77287	EU246939	Hepatitis C virus strain D49 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	345	359
+6901	AB049101	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT221.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+6900	AB049100	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT217.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+34533	AB661373	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.44.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+7312	AJ621228	Hepatitis C virus 5'UTR.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	37	53	5.61E+01	73.68	406	420
+34536	AB661376	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.5.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34534	AB661374	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.46.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34535	AB661375	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.27.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+217193	KC285336	Hepatitis C virus isolate IR-RIGLD-FSM167 RNA-dependent RNA polymerase gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	84	92	2.75E+03	50	302	312
+36752	AB691595	Hepatitis C virus subtype 3a genomic RNA, complete genome, strain: S310/A.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+36753	AB691596	Hepatitis C virus subtype 3a genomic RNA, complete genome, strain: S310/B.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+36320	AB709387	Hepatitis C virus subtype 1b gene for polyprotein, NS3 protease region, partial cds, isolate: MN070406.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	355	363	1.09E+04	45.45	688	697
+6893	AB049093	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT150.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+66562	DQ155471	Hepatitis C virus strain D48 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66563	DQ155472	Hepatitis C virus strain D49 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.76E+02	63.64	345	359
+66560	DQ155469	Hepatitis C virus strain D45 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	348	362
+66561	DQ155470	Hepatitis C virus strain D47 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+66564	DQ155473	Hepatitis C virus strain D50 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66565	DQ155474	Hepatitis C virus strain D52 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.13E+01	68.18	348	362
+66568	DQ155477	Hepatitis C virus strain D56 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+66569	DQ155478	Hepatitis C virus strain D59 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+241579	KP666606	Hepatitis C virus clone 10051_5R_7 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+2074	HPCK3A	Hepatitis C virus (isolate HCV-K3a/650) genomic RNA, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+282514	KJ678786	Hepatitis C virus isolate TV470, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	68.18	374	388
+282516	KJ678788	Hepatitis C virus isolate TV475, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+282517	KJ678789	Hepatitis C virus isolate TV477, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	401	414
+282510	KJ678782	Hepatitis C virus isolate SW173, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	2.33E+02	68.42	402	415
+282511	KJ678783	Hepatitis C virus isolate SW200, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	7070	7078	4.02E+03	52.63	7940	7949
+50125	AY576562	Hepatitis C virus isolate patient 4 clone 7 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+39918	AF207765	Hepatitis C virus subtype 1b strain MD24, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	6	15	1.09E+04	59.09	369	382
+189244	JX227949	Hepatitis C virus subtype 2c isolate HCV-2c/GB/BID-G1238, partial genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6177	6185	1.67E+04	52.63	7820	7830
+189245	JX227950	Hepatitis C virus subtype 2c isolate HCV-2c/GB/BID-G1239, partial genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5898	5906	1.67E+04	52.63	7532	7542
+189246	JX227951	Hepatitis C virus subtype 2c isolate HCV-2c/GB/BID-G1240, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5945	5953	1.67E+04	52.63	7782	7792
+51054	AY973860	Hepatitis C virus isolate cs2a-4 polyprotein gene, NS5B RNA dependent RNA polymerase region, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	52.94	243	251	1.09E+04	45.45	384	393
+223776	EU781766	Hepatitis C virus subtype 1a isolate L8133, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	897	905	1.09E+04	45.45	909	918
+92331	HCU89019	Hepatitis C virus subtype 1b, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	352	366
+51053	AY973859	Hepatitis C virus isolate cs2a-1 polyprotein gene, NS5B RNA dependent RNA polymerase region, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	52.94	234	242	1.09E+04	45.45	375	384
+4295	HPCJ483	Hepatitis C virus genome, complete sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+34577	AB661417	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.34.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+70670	DQ640342	Hepatitis C virus strain Th27 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.83E-01	95.45	345	366
+70673	DQ640345	Hepatitis C virus strain Th32 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	6.96E+02	68.18	351	366
+50119	AY576556	Hepatitis C virus isolate patient 4 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+70675	DQ640347	Hepatitis C virus strain Th34 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.76E+02	59.09	345	357
+70674	DQ640346	Hepatitis C virus strain Th33 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	5.78E-01	95.24	319	339
+70677	DQ640349	Hepatitis C virus strain Th38 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+70676	DQ640348	Hepatitis C virus strain Th36 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	3.26E+00	89.47	368	386
+70679	DQ640351	Hepatitis C virus strain Th41 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+70678	DQ640350	Hepatitis C virus strain Th39 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+34546	AB661386	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.21.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+33366	HCU45476	Hepatitis C virus isolate HD-1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33364	HCU01214	Hepatitis C virus subtype 1b strain HCV-L2, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+33365	HCU16362	Hepatitis C virus subtype 1b, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	19	28	9.02E+00	71.43	354	368
+33362	HPCGENANTI	Hepatitis C virus subtype 1b strain Taiwan, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	5.57E+02	57.14	356	367
+33363	S62220	Hepatitis C virus subtype 1b, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	9.02E+00	71.43	352	366
+33360	HPCHUMR	Hepatitis C virus subtype 1b, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	9	18	9.02E+00	71.43	344	358
+33361	HPCCGENOM	Hepatitis C virus subtype 1b strain HeBei, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	7	16	9.02E+00	71.43	342	356
+75515	EF407461	Hepatitis C virus isolate 5004 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	88.24	7	23	9.02E+00	71.43	333	347
+34574	AB661414	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.7.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+62773	AY576576	Hepatitis C virus isolate patient 8 clone 12 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62772	AY576575	Hepatitis C virus isolate patient 8 clone 11 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	332	346
+62771	AY576574	Hepatitis C virus isolate patient 8 clone 10 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62770	AY576573	Hepatitis C virus isolate patient 8 clone 9 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+220090	KJ439774	Hepatitis C virus isolate QC82, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+62776	AY576579	Hepatitis C virus isolate patient 7 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62775	AY576578	Hepatitis C virus isolate patient 7 clone 1 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	13	21	9.02E+00	71.43	331	345
+62774	AY576577	Hepatitis C virus isolate patient 8 clone 13 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	332	346
+62779	AY576582	Hepatitis C virus isolate patient 7 clone 5 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+62778	AY576581	Hepatitis C virus isolate patient 7 clone 4 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+66586	DQ155495	Hepatitis C virus strain D84 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+1986	HPCCORE11	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+5947	AB154190	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 15.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+5944	AB154187	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 12.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+5948	AB154191	Hepatitis C virus subtype 1b gene for polyprotein, partial cds, isolate: No. 16.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	6	15	9.02E+00	71.43	341	355
+1982	HPCCORE06	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	1.41E+02	90.48	346	366
+1983	HPCCORE07	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+1980	HPCCORE03	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	3.52E+01	94.12	25	41	4.02E+03	57.89	401	412
+223916	KM102765	Hepatitis C virus isolate Patient F polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+223919	KM102768	Hepatitis C virus isolate Patient J polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	13	22	1.76E+02	59.09	368	380
+223918	KM102767	Hepatitis C virus isolate Patient H polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+223526	EU255940	Hepatitis C virus subtype 1a isolate HCV-1a/US/BID-V433/2006, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	914	922	1.67E+04	47.37	1498	1506
+1989	HPCE2NS11	Hepatitis C virus gene for core, env, and part of E2/NS1, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	370	384
+33704	DQ278893	Hepatitis C virus subtype 6k isolate KM41, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	19	28	1.13E+01	68.18	373	387
+18269	X84079	Hepatitis C virus RNA for core, envelope1 and envelope2.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	8.59E+03	52.94	4	12	1.09E+04	59.09	349	362
+33706	DQ278891	Hepatitis C virus subtype 6k isolate KM45, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.13E+01	68.18	372	386
+33707	DQ071885	Hepatitis C virus subtype 1b polyprotein mRNA, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+33700	DQ835769	Hepatitis C virus subtype 6j isolate Th553, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+33701	DQ835770	Hepatitis C virus subtype 6i isolate Th602, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+39919	AF207766	Hepatitis C virus subtype 1b strain MD25, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	6	15	1.67E+04	47.37	2482	2490
+251897	JQ717256	Hepatitis C virus subtype 3a isolate RASILBS5, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	27	43	1.89E-01	94.74	396	414
+33709	EF621489	Hepatitis C virus subtype 1a strain HC-TN, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+68685	DQ430817	Hepatitis C virus isolate TN9-23FL polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6171	6179	4.02E+03	57.89	7803	7814
+68684	DQ430816	Hepatitis C virus isolate TN9-0del polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	4144	4152	4.02E+03	57.89	5776	5787
+68686	DQ430818	Hepatitis C virus isolate TN9-23del polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	4149	4157	4.02E+03	57.89	5781	5792
+54162	EU408328	Hepatitis C virus isolate QC245 polyprotein precursor, gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+68683	DQ430815	Hepatitis C virus isolate TN9-0FL polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6166	6174	4.02E+03	57.89	7798	7809
+109937	HM777358	Hepatitis C virus isolate C1799 genotype 2j polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	2.17E+03	58.82	6158	6167	2.75E+03	50	8455	8465
+280931	KM504116	Hepatitis C virus isolate QC189, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.76E+02	63.64	371	385
+6887	AB049087	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT050.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+39430	EU857431	Hepatitis C virus subtype 1b isolate Whu, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	18	27	1.89E-01	94.74	396	414
+50234	AY587016	Hepatitis C virus polyprotein mRNA, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	17	26	1.89E-01	94.74	395	413
+33689	AY878650	Hepatitis C virus subtype 6k isolate KM45, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	1	10	1.13E+01	68.18	356	370
+6888	AB049088	Hepatitis C virus genomic RNA, complete genome, isolate: HCVT094.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+6889	AB049089	Hepatitis C virus gene for polyprotein, complete cds, isolate: HCVT109.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	4	12	9.02E+00	71.43	322	336
+88311	AF054257	Hepatitis C virus HC-J4, pCV-J4L8 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	3619	3628	1.67E+04	68.42	6614	6628
+62755	AY576549	Hepatitis C virus isolate patient 2 clone 3 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	13	21	9.02E+00	71.43	331	345
+62798	AY576601	Hepatitis C virus isolate patient 6 clone 6 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	2.20E+03	66.67	331	345
+62754	AY576548	Hepatitis C virus isolate patient 2 clone 2 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	5	21	9.02E+00	71.43	331	345
+135179	HPCSTRUCTA	Hepatitis C virus core and envelope proteins gene, 5' end of cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	3.52E+01	94.12	4	20	9.02E+00	71.43	330	344
+144443	JF735115	Hepatitis C virus isolate QC283, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.76E+02	59.09	372	384
+75277	EF420128	Hepatitis C virus strain R30 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	1.89E-01	94.74	368	386
+3998	HPCRNA	Hepatitis C virus RNA, complete genome sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+88310	AF054255	Hepatitis C virus HC-J4, pCV-J4L6 polyprotein gene, partial cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	3619	3628	1.67E+04	68.42	6614	6628
+227340	KM043279	Hepatitis C virus strain 110069TF1.UC2 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+227341	KM043280	Hepatitis C virus strain 9055TF.UC1 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+227342	KM043281	Hepatitis C virus strain 9055TF.UC2 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+63770	AY746915	Hepatitis C virus clone #27-7 nonfuncitonal polyprotein mRNA, partial sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	67	75	4.02E+03	52.63	318	327
+192004	KC248195	Hepatitis C virus isolate 160526, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+227346	KM043285	Hepatitis C virus strain 10051TF.UC1 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+20714	FN666429	Hepatitis C virus partial gene for polyprotein, genomic RNA, subtype 2q, isolate 852.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.58E+03	47.37	5429	5437	8.69E+03	47.62	6650	6659
+220094	KJ439778	Hepatitis C virus isolate QC196, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+20720	FN666428	Hepatitis C virus gene for polyprotein, genomic RNA, subtype 2q, isolate 963.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	8.58E+03	47.37	6885	6893	1.67E+04	52.63	7845	7855
+195000	KC197240	Hepatitis C virus isolate PTR7904 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	2.17E+03	58.82	5584	5593	9.68E+02	63.16	7801	7813
+33357	AY232749	Hepatitis C virus clone MD2b10-2 polyprotein mRNA, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	64.71	6201	6211	4.02E+03	57.89	7835	7846
+85926	AF356827	Hepatitis C virus subtype 1b isolate HCV-S1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	2.28E+00	76.19	352	367
+251898	JQ717257	Hepatitis C virus subtype 3a isolate ILBSRAS6, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+222884	KJ470623	Hepatitis C virus isolate HK26, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	66.67	351	365
+222885	KJ470624	Hepatitis C virus isolate HK38, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	17	26	2.20E+03	66.67	352	366
+222886	KJ470625	Hepatitis C virus isolate HK43, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	33	41	1.67E+04	47.37	1874	1882
+4274	AY344020	Hepatitis C virus isolate UT-S8 5' UTR.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	1	10	2.20E+03	66.67	333	347
+222880	KJ470619	Hepatitis C virus isolate NE274, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	8.91E+00	89.47	7	24	1.41E+02	90.48	346	366
+222881	KJ470620	Hepatitis C virus isolate HKP7, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	17	26	1.13E+01	81.82	375	393
+222882	KJ470621	Hepatitis C virus isolate HKP16, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	8.59E+03	52.94	33	41	2.20E+03	66.67	352	366
+189261	JX227966	Hepatitis C virus subtype 2c isolate HCV-2c/GB/BID-G1294, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	6296	6304	1.67E+04	52.63	7930	7940
+90476	GU570704	Hepatitis C virus isolate HC295 polyprotein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	3.52E+01	94.12	1	17	1.89E-01	94.74	371	389
+96284	AY651061	Hepatitis C virus isolate Khaja1, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+113229	GU451224	Hepatitis C virus subtype 1b isolate S4 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+113228	GU451223	Hepatitis C virus subtype 1b isolate S3 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+251896	JQ717255	Hepatitis C virus subtype 3a isolate RASILBS4, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	1.45E-01	100	25	41	1.89E-01	94.74	394	412
+22346	AB442220	Hepatitis C virus subtype 1b genomic RNA, complete genome, clone: KAH5.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+22347	AB442222	Hepatitis C virus subtype 1b genomic RNA, complete genome, clone: 1B-5.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+113223	GU451218	Hepatitis C virus subtype 1b isolate H1 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	2.20E+03	66.67	353	367
+22345	AB442219	Hepatitis C virus subtype 1b genomic RNA, complete genome, clone: 1B-4.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+113225	GU451220	Hepatitis C virus subtype 1b isolate H4 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	2.20E+03	66.67	353	367
+113224	GU451219	Hepatitis C virus subtype 1b isolate H3 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	2.20E+03	66.67	353	367
+113227	GU451222	Hepatitis C virus subtype 1b isolate S2 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+113226	GU451221	Hepatitis C virus subtype 1b isolate S1 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+34543	AB661383	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.16.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34541	AB661381	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.12.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34540	AB661380	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.11.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+66588	DQ155497	Hepatitis C virus strain D86 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	1.89E-01	94.74	369	387
+66589	DQ155498	Hepatitis C virus strain D87 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+34545	AB661385	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.19.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+34544	AB661384	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.17.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+123930	LC011929	Hepatitis C virus subtype 1b genomic RNA, complete genome, strain: TPF1, collection_date: 2012-10-08.	FOR_HCV-3a(+)7	REV_HCV-3a(-)345	2.17E+03	52.63	18	27	9.02E+00	71.43	353	367
+66585	DQ155494	Hepatitis C virus strain D83 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	1.89E-01	94.74	368	386
+34549	AB661389	Hepatitis C virus subtype 2b gene for polyprotein, complete cds, isolated from patient No.39.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	8.59E+03	52.94	5899	5907	4.02E+03	57.89	7531	7542
+66587	DQ155496	Hepatitis C virus strain D85 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.76E+02	59.09	347	359
+66580	DQ155489	Hepatitis C virus strain D77 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	9.02E+00	71.43	325	339
+66581	DQ155490	Hepatitis C virus strain D78 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	376	389
+66582	DQ155491	Hepatitis C virus strain D79 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.76E+02	59.09	345	357
+66583	DQ155492	Hepatitis C virus strain D81 core protein gene, partial cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)345	5.50E+02	82.35	1	15	2.20E+03	52.38	329	339
+100118	AF511950	Hepatitis C virus isolate XF224 polyprotein-like gene, complete sequence.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	5.50E+02	82.35	1	15	1.09E+04	59.09	353	366
+100117	AF511949	Hepatitis C virus isolate XF223 polyprotein-like gene, complete sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+100116	AF511948	Hepatitis C virus isolate XF222 polyprotein-like gene, complete sequence.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.09E+04	59.09	381	394
+280937	KM504122	Hepatitis C virus isolate QC287, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	2.33E+02	68.42	398	411
+105599	EF424625	Hepatitis C virus subtype 6q isolate QC99, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	16	25	1.13E+01	68.18	371	385
+2001	HPCHCPO	Hepatitis C virus genomic RNA for HCV polyprotein, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	18	27	1.89E-01	94.74	396	414
+6331	AB031663	Hepatitis C virus (isolate VAT96) genomic RNA, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	2.17E+03	52.63	18	27	1.76E+02	59.09	373	385
+2005	HPCFG	Hepatitis C virus (isolate Tr Kj) genomic RNA, complete genome.	FOR_HCV-3a(+)25	REV_HCV-3a(-)371	3.52E+01	94.12	25	41	2.75E+03	50	373	383
+280927	KM504112	Hepatitis C virus isolate QC112, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
+236189	KM252779	Hepatitis C virus isolate TV280 polyprotein gene, complete cds.	FOR_HCV-3a(+)7	REV_HCV-3a(-)371	8.58E+03	47.37	2121	2129	1.09E+04	45.45	4116	4125
+77278	EU246930	Hepatitis C virus strain D9 polyprotein gene, complete cds.	FOR_HCV-3a(+)25	REV_HCV-3a(-)394	5.50E+02	82.35	1	15	2.33E+02	68.42	376	389
+280926	KM504111	Hepatitis C virus isolate QC81, complete genome.	FOR_HCV-3a(+)7	REV_HCV-3a(-)394	2.17E+03	52.63	16	25	1.89E-01	94.74	393	411
